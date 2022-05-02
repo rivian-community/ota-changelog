@@ -4,9 +4,7 @@
 
 Release date: May 2, 2022
 
-### New Features
-
-#### New Garage Door Opener
+### New Garage Door Opener
 
 You can now control a garage door. To add a new garage, use one of the
 following methods:
@@ -19,7 +17,7 @@ following methods:
    from the menu on the center display. Choose **Connect** and then choose
    **Garages**.
 
-#### New Exterior Lights Settings
+### New Exterior Lights Settings
 
 You can now control certain exterior lights, including the light bars and charge
 port light when the vehicle is charging. Choose **Settings**
@@ -27,7 +25,7 @@ port light when the vehicle is charging. Choose **Settings**
 from the menu on the center display. Choose **Vehicle** and then choose
 **Exterior Lights**.
 
-#### New Automatic High Beams
+### New Automatic High Beams
 
 To use Automatic High Beams, choose **Settings**
 <img src="./images/icons/settings.png?raw=true" alt="settings icon" height="20px" />
@@ -35,7 +33,7 @@ from the menu on the center display. Choose **Vehicle** and then choose
 **Driver+**. Turn on **Automatic High Beams** and then push the lights stalk
 away from you.
 
-#### Additional Improvements
+### Additional Improvements
 
 - Improved the sleep performance and consistency to reduce range loss while
   vehicle is in idle state
