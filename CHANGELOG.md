@@ -82,6 +82,52 @@ away from you.
         =.   ..   -    :-
 ```
 
+
+## 2022.11.02 (d9184158)
+
+Release date: April 11, 2022
+
+### New Car Wash Mode
+
+Car Wash mode closes the windows, locks the charge port door, and pauses other
+functions while you wash your vehicle. To use Car Wash mode, choose **Vehicle**
+<img src="./images/icons/vehicle.png?raw=true" alt="vehicle icon" height="20px" />
+from the menu on the center display.
+
+### Updated TuneIn Design
+
+We've improved the user interface, features, performance, and responsiveness of
+TuneIn.
+
+### Improved DC Fast Charging Performance
+
+We enabled the support of 500 A charging.
+
+### Additional Improvements
+
+This software release includes the following:
+
+- Improved traction control in muddy terrain
+- Added Low ride height in Conserve drive mode as a manual setting
+- Improved ride height leveling accuracy
+- Improved range loss consistency while the vehicle is sleeping
+- Improved interoperability with third-party public chargers
+- Improved passenger detection so climate, media, and other features stay active
+  while the driver is away, and front or rear passengers remain in the vehicle
+- Vehicle now selects cellular network as preferred network when vehicle is not
+  in Park
+- New user interface for Phone panel with a numeric keypad and mute button
+- Addressed loss of connectivity in rare cases
+- Improved defrost heating and air circulation
+- Improved Auto behavior for climate controls
+- Improved the automatic brightness and white balance when you select the backup
+  camera view or bird's eye view
+- Improved Gear Guard detection in low light and snow conditions
+- Improved Gear Guard activation at Home
+- Improved stability of the infotainment system
+- Improved performance of Adaptive Cruise Control and Highway Assist
+
+
 ## 2021.49.2 (4e2d905f)
 
 Release date: January 3, 2022
@@ -114,6 +160,7 @@ This software release includes the following:
 
 The rear display is temporarily locked and will be available for use in a future
 update.
+
 
 ## 2021.45.1
 
