@@ -81,3 +81,36 @@ away from you.
         -....:.   -     :
         =.   ..   -    :-
 ```
+
+## 2021.49.2 (4e2d905f)
+
+Release date: January 3, 2022
+
+### Improved Navigation App
+
+We enhanced navigation and usability for a more seamless experience, and the
+vehicle will inform you of how much time you can save if you use a suggested
+route that's faster than your current route.
+
+### Enhanced Bluetooth Connectivity and Audio
+
+We improved the stability of the Bluetooth connection and enhanced the audio
+performance.
+
+### Additional Improvements
+
+This software release includes the following:
+
+- Improved automatic locking and unlocking of vehicle
+- Improved Highway Assist performance
+- Improved Driver+ safety and awareness notifications
+- Improved climate and defrost performance
+- Enhanced User Interface (UI) support for the backup camera view
+- Enhanced infotainment system performance and stability
+- Enhanced switching between apps for smoother transitions on the center display
+- Made various UI improvements to enhance usability
+
+### Limitation
+
+The rear display is temporarily locked and will be available for use in a future
+update.
