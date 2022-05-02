@@ -114,3 +114,7 @@ This software release includes the following:
 
 The rear display is temporarily locked and will be available for use in a future
 update.
+
+## 2021.45.1
+
+(Unknown)
