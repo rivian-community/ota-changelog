@@ -128,6 +128,64 @@ This software release includes the following:
 - Improved performance of Adaptive Cruise Control and Highway Assist
 
 
+## 2022.7.0 (b1146918)
+
+Release date: March 5, 2022
+
+### New Bird's Eye View
+
+The bird's eye view is available to increase visibility around the vehicle when
+you back up the vehicle or access it from the Cameras app: choose **Cameras**
+<img src="./images/icons/video-camera.png?raw=true" alt="video camera icon" height="20px" />
+from the menu on the center display.
+
+### New Trip Data
+
+You can track distance, speed, duration, efficiency, and energy for two trips.
+Choose **Vehicle**
+<img src="./images/icons/vehicle.png?raw=true" alt="vehicle icon" height="20px" />
+from the menu on the center display, and then choose **About My Rivian**.
+
+### Enhanced Owner's Guide
+
+We've improved the usability of the Owner's Guide. Choose **More**
+<img src="./images/icons/dots.png?raw=true" alt="ellipsis icon" height="20px" />
+and then **Owner's Gulde**
+<img src="./images/icons/book.png?raw=true" alt="book icon" height="20px" />
+from the menu on the center display.
+
+### Rear Display Now Available
+
+To unlock the rear display, choose **Vehicle**
+<img src="./images/icons/vehicle.png?raw=true" alt="vehicle icon" height="20px" />
+from the menu on the center display, and then choose **Lighting and Displays**.
+
+### Additional Improvements
+
+This software release includes the following:
+
+- Improved automatic locking and. unlocking of vehicle, including quicker
+  deployment of door handles and a better user experience when approaching the
+  vehicle from the front or rear
+- Increased driving comfort during highway drives and enabled a smoother
+  response to accelerator pedal changes for a better driving experience in
+  on-road drive modes
+- Reduced pedal travel required during hill climbs for a better driving
+  experience in off-road drive modes
+- Improved Vehicle Hold performance on very steep inclines
+- Improved performance of Adaptive Cruise Control and Highway Assist
+- Added the ability to reset vehicle settings in the Drive Modes app
+- Enhanced the power gauge on the driver display
+- Enhanced driver display user interface in Towing mode
+- Improved responsiveness and stability of the infotainment system
+- Improved performance and stability of the Navigation app
+- Added vent control animation for a more intuitive user experience
+- Added the capability to adjust more than one vent at a time
+- Improved availability of the Gear Guard app
+- Improved stability of Bluetooth connections
+- Improved audio availability for a better listening experience
+
+
 ## 2021.49.2 (4e2d905f)
 
 Release date: January 3, 2022
