@@ -186,6 +186,52 @@ This software release includes the following:
 - Improved audio availability for a better listening experience
 
 
+## 2022.3.1 (547d39ee)
+
+Release date: February 4, 2022
+
+### Tire Pressure Status Now Available on Driver Display
+
+To view the current pressure of all tires while the vehicle is traveling,
+long-press the left or right thumb control button on the left controls of the steering wheel.
+
+### New App Name and Icon to Access Gear Guard Video
+
+The Videos app is now named the Gear Guard app and uses a new icon. While the
+vehicle is parked, you can access Gear Guard video by choosing **Gear Guard**
+<img src="./images/icons/guard.png?raw=true" alt="guard icon" height="20px" />
+from the menu on the center display. This release also includes multiple
+improvements for the accuracy of Gear Guard motion detection.
+
+### Additional Improvements
+
+This software release includes the following:
+
+- Enhanced infotainment system stability and usability
+- Improved regenerative braking performance when the battery is at a high state
+  of charge
+- Improved DC fast charging curve and behavior in low temperatures
+- Improved AC charging performance and efficiency
+- Enhanced climate performance for increased cabin comfort
+- Enhanced defog and defrost to quickly clear your windshield
+- Improved sleep consistency, resulting in reduction of range loss while vehicle
+  is parked
+- Improved vehicle access performance for a more consistent user experience
+- Improved Highway Assist performance, availability, and notifications
+- Improved Adaptive Cruise Control performance and availability
+- Improved vehicle suspension consistency and fault management
+- Improved audio volume management for a better listening experience
+- Improved Bluetooth hands-free audio stability
+- Reduced interior lighting brightness at night for greater eye comfort in Auto
+  mode
+- Improved cellular and Wi-Fi connectivity performance
+- Improved the Camp Speaker User Interface (UI)
+- Improved UI on the driver display for exterior lighting selection using the
+  lights stalk
+- Improved UI on the driver display for front wiper mode selection using the
+  wiper switch on the lights stalk
+
+
 ## 2021.49.2 (4e2d905f)
 
 Release date: January 3, 2022
