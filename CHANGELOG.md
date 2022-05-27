@@ -35,7 +35,7 @@ on the center display, then choose the **Off-Road** button, and then choose the
   rocky terrain in Rock Crawl mode
 - Improved range estimation in Navigation app when routing to a destination
 - Added Home mode for proximity lock / unlock. This will prevent frequent
-  lock/unlock issues if your vehicle is parked very closely to your phone, and
+  lock / unlock issues if your vehicle is parked very closely to your phone, and
   the resulting overnight range loss.
   - **Important Note:** Enabling this in the Vehicle Access settings menu will
     leave your vehicle unlocked when parked at your home location set in the
