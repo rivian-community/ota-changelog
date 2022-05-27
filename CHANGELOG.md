@@ -2,7 +2,7 @@
 
 ## 2022.15.0 (bb3579b1)
 
-Release date: May 2, 2022
+Initial public release: May 2, 2022
 
 ### New Garage Door Opener
 
@@ -85,7 +85,7 @@ away from you.
 
 ## 2022.11.02 (d9184158)
 
-Release date: April 11, 2022
+Initial public release: April 11, 2022
 
 ### New Car Wash Mode
 
@@ -130,7 +130,7 @@ This software release includes the following:
 
 ## 2022.7.0 (b1146918)
 
-Release date: March 5, 2022
+Initial public release: March 5, 2022
 
 ### New Bird's Eye View
 
@@ -188,7 +188,7 @@ This software release includes the following:
 
 ## 2022.3.1 (547d39ee)
 
-Release date: February 4, 2022
+Initial public release: February 4, 2022
 
 ### Tire Pressure Status Now Available on Driver Display
 
@@ -234,7 +234,7 @@ This software release includes the following:
 
 ## 2021.49.2 (4e2d905f)
 
-Release date: January 3, 2022
+Initial public release: January 3, 2022
 
 ### Improved Navigation App
 
