@@ -4,7 +4,9 @@
 
 Initial public release: May 27, 2022
 
-(Details to come)
+### New Soft Sand Mode
+
+(Further details to come)
 
 ## 2022.15.0 (bb3579b1)
 
