@@ -25,7 +25,7 @@ soft sand. This mode uses unique traction control settings, minimal stability
 control support, and reduced regenerative braking to optimize vehicle handling.
 Navigate to **Drive Modes** button
 <img src="./images/icons/drive-modes.png?raw=true" alt="drive modes icon" height="20px" />
-on the center display, then choose the Off-Road button, and then choose the
+on the center display, then choose the **Off-Road** button, and then choose the
 **Soft Sand** button.
 
 ### Additional Improvements
