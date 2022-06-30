@@ -1,5 +1,94 @@
 # Rivian OTA Changelog
 
+## 2022.23.03 (8babae52)
+
+Initial public release: June 30, 2022
+
+### New Mode for Pets
+
+When Pet Comfort is active, your vehicle maintains the last cabin temperature
+you set and disables the interior alarm, so pets can remain in your vehicle
+after you leave. The center display shows an animated message with the cabin
+temperature, so passersby know your pet is safe. Choose the **Temperature**
+button from the menu on the center display, and then choose the **Pet Comfort**
+button. When you return and start driving, your vehicle automatically turns off
+Pet Comfort.
+
+To monitor Pet Comfort in the Rivian app on your smartphone, ensure you're
+using version 1.4.1 or later.
+
+### New Front Camera View Behavior For Parking
+
+We made it easier to park in tight parking spots with confidence. When you
+shift the vehicle from Reverse to Drive, the front camera view automatically
+appears on the center display until you exceed approximately 5 mph. This allows
+you to see the front camera and bird's eye views without having to take your
+hands off of the steering wheel. To disable this feature, choose **Settings**
+from the menu on the center display, and then choose **Vehicle**. Choose
+**Driver+** and turn off **Automatic Front Camera**.
+
+### New Setting to Adjust Cabin Lights
+
+We added a control to adjust the brightness of cabin lights. Choose **Vehicle**
+from the menu on the center display, and then choose **Lighting and displays**.
+
+### Updated Energy App
+
+The Energy app is now a separate application; choose **More** from the menu on
+the center display, and then choose **Energy**. We also added a Session Summary
+to provide details about energy usage for charge sessions.
+
+### Additional Improvements
+
+- The vehicle now remains in Off-Road mode even after you have left the
+  vehicle. The vehicle automatically switches to All-Purpose mode the next
+  calendar day.
+- Updated algorithm to improve proximity locking and unlocking of the vehicle
+- Improved the consistency of user profile loading. The vehicle now loads the
+  user profile associated with the phone
+- Reduced volume level of the pedestrian audio alert while still complying with
+  the Federal Motor Vehicle Safety Standard (FMVSS) No. 141
+- Added control of the windshield vent on the climate panel
+- Improved cooling and air conditioning response when you enter a vehicle with a
+  hot cabin
+- Improved Automatic High Beams behavior: To turn on **Automatic High Beams**,
+  choose Settings from the menu on the center display, and then choose
+  **Vehicle**. Choose **Exterior Lights** or **Driver+**, and then turn on
+  **Automatic High Beams**.
+  - To temporarily turn off Automatic High Beams, push or pull the lights stalk.
+    To turn on Automatic High Beams again, push the lights stalk away from you
+    (the Automatic High Beams setting must remain turned on).
+- Updated Car Wash mode to retract door handles, disable proximity locking, and
+  enhance support of belt conveyor systems.
+- You can now exit the vehicle while it's in Neutral. The vehicle stays in
+  Neutral and won't automatically lock the doors.
+- Enhanced color accuracy of camera views. Also improved brightness control for
+  nighttime usage.
+- Improved connection stability of paired Bluetooth devices
+- For the Navigation app, charger filters now persist while the audio panel
+  appears on the center display.
+- Fixed an occasional issue when the charger filter for +100 kW in the
+  Navigation app doesn't work
+- Fixed an issue when the vehicle turns off accent lighting after a software
+  update or vehicle reset. The accent lighting defaults to ON when you update
+  the software to version 2022.23. Then for future software updates, the
+  existing setting will persist after the software update.
+- Fixed an issue when the vehicle locks the rear display after it sleeps
+- Fixed an issue with the behavior of the Camp Speaker lock button in the
+  Settings app
+- Improved SOS call handling: Incoming calls that are spam or invalid are now
+  rejected.
+- Improved Highway Assist availability logic after a highway interchange, and
+  improved notification consistency when approaching highway junctions
+- Enabled smoother acceleration and deceleration performance in Adaptive Cruise
+  Control and Highway Assist when you press the accelerator pedal
+- Made multiple improvements to lane centering control for Highway Assist
+- Improved pairing compatibility with garage door openers
+- Fixed a rare issue when the vehicle removes garage doors from the Garages list
+- Fixed very rare cases of corrupted content on the center display
+
+
+
 ## 2022.19.03 (a4073715)
 
 Initial public release: May 27, 2022
