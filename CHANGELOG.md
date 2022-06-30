@@ -2,6 +2,10 @@
 
 ## 2022.23.03 (8babae52)
 
+Source:
+  [R1S](https://stories.rivian.com/r1s-software-update-2022-23-03),
+  [R1T](https://stories.rivian.com/r1t-software-update-2022-23-03)
+
 Initial public release: June 30, 2022
 
 ### New Mode for Pets
@@ -69,6 +73,8 @@ to provide details about energy usage for charge sessions.
   appears on the center display.
 - Fixed an occasional issue when the charger filter for +100 kW in the
   Navigation app doesn't work
+- [R1S] The center display now notifies you when the liftgate can't close
+  because the tailgate isn't closed.
 - Fixed an issue when the vehicle turns off accent lighting after a software
   update or vehicle reset. The accent lighting defaults to ON when you update
   the software to version 2022.23. Then for future software updates, the
