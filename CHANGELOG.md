@@ -97,6 +97,11 @@ to provide details about energy usage for charge sessions.
 
 ## 2022.19.03 (a4073715)
 
+Source:
+  [R1S](https://stories.rivian.com/r1s-software-update-2022-19-03),
+  [R1T](https://stories.rivian.com/r1t-software-update-2022-19-03)
+
+
 Initial public release: May 27, 2022
 
 **Important Note:** This software release will automatically scan the
