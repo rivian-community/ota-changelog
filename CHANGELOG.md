@@ -73,7 +73,7 @@ to provide details about energy usage for charge sessions.
   appears on the center display.
 - Fixed an occasional issue when the charger filter for +100 kW in the
   Navigation app doesn't work
-- [R1S] The center display now notifies you when the liftgate can't close
+- **R1S**: The center display now notifies you when the liftgate can't close
   because the tailgate isn't closed.
 - Fixed an issue when the vehicle turns off accent lighting after a software
   update or vehicle reset. The accent lighting defaults to ON when you update
@@ -142,11 +142,11 @@ on the center display, then choose the **Off-Road** button, and then choose the
     Navigation app.
 - User can now customize their vent and recirculation settings while climate
   control is in Auto mode
-- [R1S] Improved cabin comfort during DC fast charging
+- **R1S**: Improved cabin comfort during DC fast charging
 - Improved garage door flyout behavior by allowing it to open while in reverse
   and making the timeouts more consistent
-- [R1S] Added a notification to indicate rear wiper is turned off
-- [R1S] Liftgate lights now turn on when liftgate is opened
+- **R1S**: Added a notification to indicate rear wiper is turned off
+- **R1S**: Liftgate lights now turn on when liftgate is opened
 - Bird's eye view now shows when doors, tailgate, and front trunk are open
 - New algorithm to improve the accuracy and aesthetics of backup camera view
   guidelines when turning the steering wheel
