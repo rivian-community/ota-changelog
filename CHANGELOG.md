@@ -1,5 +1,16 @@
 # Rivian OTA Changelog
 
+## 2022.23.05
+
+Source:
+  [R1S](https://stories.rivian.com/r1s-software-update-2022-23-05),
+  [R1T](https://stories.rivian.com/r1t-software-update-2022-23-05)
+
+Initial public release: July 23, 2022
+
+Addressed an issue when the Rivian app occasionally displayed cold temperatures
+while the vehicle is idle
+
 ## 2022.23.03 (8babae52)
 
 Source:
