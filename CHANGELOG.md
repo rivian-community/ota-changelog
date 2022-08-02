@@ -6,7 +6,7 @@ Source:
   [R1S](https://stories.rivian.com/r1s-software-update-2022-23-05),
   [R1T](https://stories.rivian.com/r1t-software-update-2022-23-05)
 
-Initial public release: July 23, 2022
+Initial public release: July 6, 2022
 
 Addressed an issue when the Rivian app occasionally displayed cold temperatures
 while the vehicle is idle
