@@ -43,11 +43,11 @@ improvement in miles added per minute.
   heights
 - Front Trunk can now be closed if vehicle is locked
 - **R1S**: Liftgate can now be closed if vehicle is locked
-- Fixed a rare issue with Lock / unlock passive unlock where the closures were
+- Fixed a rare issue with lock/unlock passive unlock where the closures were
   unlocked, but door handles did not unfold
 - Improved turn signal canceling behavior when it sometimes canceled too soon
   during the steering wheel rotation
-- Improved camp speaker lock / unlock functionality
+- Improved camp speaker lock/unlock functionality
 - Fixed an occasional issue that could cause the volume level settings to change
   after some cases of vehicle inactivity
 - Fixed a rare issue when mini media player controls and steering wheel media
