@@ -299,11 +299,12 @@ away from you.
 - Introduced new "Show and Tell" mode to keep exterior lights and screens ON
   while vehicle is in Park. This mode is deactivated in drive or at less than 30
   miles of range.
-- Added functionality to the tonneau cover button to enable manual control
+- **R1T:** Added functionality to the tonneau cover button to enable manual control
   - Press and hold the tonneau cover button and then release the button to stop
 - Enrolled key band will now display in the driver keys list
 - Improved Birds eye view stitching based on suspension ride height
-- Improved passive entry behavior near front trunk and liftgate
+- Improved passive entry behavior near front trunk
+- **R1S:** Improved passive entry behavior near liftgate
 - Improved **AUTO** climate control response when frequently re-entering vehicle
 - Reduced frequency of navigation reroute suggestions after initial prompt
 - Addressed inaccurate range displayed in rare cases, after DC fast charging
