@@ -1,5 +1,71 @@
 # Rivian OTA Changelog
 
+## 2022.27.02
+
+Source:
+  [R1S](https://stories.rivian.com/r1s-software-update-2022-27-02),
+  [R1T](https://stories.rivian.com/r1t-software-update-2022-27-02)
+
+Initial public release: August 4, 2022
+
+### Automatic Ride Height
+
+We have added the ability to enable automatic or manual ride height control to
+All Purpose and Conserve modes. When the ride height is set to Auto, the
+vehicle automatically changes to Low ride height at higher speeds for increased
+efficiency and energy conservation. The vehicle returns to Standard ride height
+at lower speeds for increased ground clearance and comfort.
+
+Conserve Auto mode has now the same ride height strategy as All Purpose, and
+hence reduces the amount of suspension auto-adjustment when approaching stop
+lights in urban environments.
+
+To turn off automatic ride height changes in All-Purpose or Conserve mode,
+manually select another available ride height These manual settings are now
+latching across drive cycles.
+
+### Direct Current Fast Charging
+
+We have improved DC fast charging performance and battery preconditioning when
+using trip planner. In ideal conditions, you may experience up to a 20%
+improvement in miles added per minute.
+
+### Additional Improvements
+
+- Improved automatic leveling behavior of the vehicle by reducing the frequency
+  of suspension adjustments when the vehicle is at a stand still (4x reduction)
+- Fixed occasional issues with loss of calibration of climate vents
+- Improved cabin comfort vent control behavior
+- Improved cabin comfort cooling while also cooling the drive train in hot
+  conditions
+- Improved range loss over night (15% average improvement)
+- Improved ride comfort with suspension damping changes in high and highest ride
+  heights
+- Front Trunk can now be closed if vehicle is locked
+- **R1S**: Liftgate can now be closed if vehicle is locked
+- Fixed a rare issue with Lock / unlock passive unlock where the closures were
+  unlocked, but door handles did not unfold
+- Improved turn signal canceling behavior when it sometimes canceled too soon
+  during the steering wheel rotation
+- Improved camp speaker lock / unlock functionality
+- Fixed an occasional issue that could cause the volume level settings to change
+  after some cases of vehicle inactivity
+- Fixed a rare issue when mini media player controls and steering wheel media
+  controls become unresponsive
+- Fixed an issue when media audio pauses upon waking Alexa
+- Addressed a rare issue of cellular connectivity not restored when the vehicle
+  returns from poor coverage areas
+- Fixed an issue when the hotspot would turn off after vehicle would go to sleep
+- Fixed an occasional issue when Alexa would not be able to connect to the
+  internet
+- Improved Bluetooth pairing for some Android phones
+- Improvements to Highway Assist lane centering control
+- Improved informative notification display to let the user know that they
+  should center the vehicle in the lane more before Highway Assist can be
+  engaged
+
+
+
 ## 2022.23.05 (007dde12)
 
 Source:
@@ -10,6 +76,8 @@ Initial public release: July 6, 2022
 
 Addressed an issue when the Rivian app occasionally displayed cold temperatures
 while the vehicle is idle
+
+
 
 ## 2022.23.03 (8babae52)
 
