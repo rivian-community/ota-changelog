@@ -1,6 +1,6 @@
 # Rivian OTA Changelog
 
-## 2022.27.02
+## 2022.27.02 (1b35e554)
 
 Source:
   [R1S](https://stories.rivian.com/r1s-software-update-2022-27-02),
