@@ -2,7 +2,8 @@
 
 ## 2022.31.0 (cf5aac07)
 
-Initial public release: August 24, 2022
+Initial public release: ~~August 24, 2022~~ Oops, [this one leaked early](https://www.reddit.com/r/Rivian/comments/wxixlo/version_2022310_now_available_with_camping_app/ils6h06/).
+Public release date TBD.
 
 ### New Camping App Available
 
