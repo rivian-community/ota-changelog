@@ -4,6 +4,10 @@
 
 Initial public release: September 2, 2022
 
+Source:
+  [R1S](https://stories.rivian.com/r1s-software-update-2022-31-05),
+  [R1T](https://stories.rivian.com/r1t-software-update-2022-31-05)
+
 ### New Camping App Available
 
 For your convenience, you can now do the following:
@@ -11,17 +15,17 @@ For your convenience, you can now do the following:
 - Energy use: To optimize your camping experience inside or outside the vehicle,
   choose your vehicle's energy use: Stay Off, Normal, or Stay On.
 - Outlets: 120 V, 12 V, USB-C, and the wireless charging pad stay on. The
-  outlets can stay on for a maximum of 24 hours, with the option to chose a
+  outlets can stay on for a maximum of 24 hours, with the option to choose a
   shorter duration.
 - Camp courtesy: You can turn off exterior lights, vehicle sounds, proximity
-  locking or unlocking and the Gear Guard alarm sound. This alto enables quiet
+  locking or unlocking, and the Gear Guard alarm sound. This also enables quiet
   cooling or heating.
 - Displays: You can turn off the driver, center, and rear displays.
-- Flood lights: You can turn on the flood lights, which are located neat the
+- Flood lights: You can turn on the flood lights, which are located near the
   side mirrors.
 - Vehicle leveling: You can level the vehicle when parked on uneven terrain.
 
-Camping controls, except for the outlets, are avatable only when the vehicle is
+Camping controls, except for the outlets, are available only when the vehicle is
 in Park. Choose **Camping**
 <img src="./images/icons/camping.png?raw=true" alt="camping app icon" height="20px" />
 from the menu on the center display.
@@ -47,36 +51,46 @@ from the menu on the center display, and then choose **Vehicle**. Choose
 
 The Rivian mobile app version 1.5.0 or later enables new vehicle commands that
 allow you to remotely control the hood, vent the windows, and activate or stop
-the panic alarm. (If the new controls don’t automatically appear in the Rivian
+the panic alarm. (If the new controls don't automatically appear in the Rivian
 mobile app, we recommend that you restart the app.)
 
 ### Additional Improvements
 
 - Reduced noise from cabin climate upon vehicle startup.
-- Reduced the offset of the speedometer display. It now displays no more than
+- Reduced the offset of the speedometer display. It now indicates no more than
   1-2 mph over the actual vehicle speed.
-- Introduced new algorithms for improved locking or unlocking speed.
-- Improved user profile detection in case there are multiple users. Also fixed
-  occasional issue: Side mirrors don’t move into the profile position when the
-  vehicle unlocks via proximity unlocking.
+- Introduced new algorithms for improved proximity unlocking speed and
+  consistency.
+- Updated user profile functionality:
+  - Improved user profile detection in case there are multiple users.
+  - In addition to the phone key, unlocking the vehicle with a key fob, key
+    card, or key band now loads the profile associated with that key.
+  - Fixed an occasional issue: Side mirrors don't move into the profile
+    position when the vehicle unlocks via proximity unlocking.
+- Updated behavior: Use of a key fob or key card now loads the profile assigned
+  to that key fob or key card.
 - Addressed issues when opening the front trunk may require pressing the button
   twice if the vehicle is asleep.
-- Displays now can’t be accessed if the Gear Guard alarm is triggered.
+- Displays now can't be accessed if the Gear Guard alarm is triggered.
 - Reduced battery drain while the vehicle is parked by an average of 10%.
 - Improvements to vehicle sleep behavior:
-- Rear occupancy detection: Heavy objects left in the rear seats won’t prevent
-  vehicle sleep.
-- Outlets that are turned on in the Energy app automatically turn off after 24
-  hours; then the vehicle can sleep.
+  - Rear occupancy detection: Heavy objects left in the rear seats won't
+    prevent vehicle sleep.
+  - Outlets that are turned on in the Energy app automatically turn off after
+    24 hours; then the vehicle can sleep.
+- Addressed the slow display of range on the driver display when the vehicle
+  wakes.
 - Fixed garage door opener interoperability issues with LiftMaster 8500/8500W,
   CSW24UL, and Jackshaft openers.
 - Addressed issues when the FM Radio would freeze or restart.
-- Fixed an occasional issue: Alexa doesn’t wake up or respond to voice commands.
+- Increased security of TuneIn integration: This may clear the Favorites and
+  Recents of users who didn't sign into TuneIn.
+- Fixed an occasional issue: Alexa doesn't wake up or respond to voice commands.
 - Fixed an occasional issue: The audio volume changes when the vehicle wakes.
-- Fixed an occasional issue in the Navigation app: The vehicle retains the
+- Fixed an occasional issue in the Navigation app: The vehicle now retains the
   satellite view while it sleeps.
-- Fixed a rare issue: The trip planner within the Navigation app is offline even
-  though the network status indicates it is connected.
+- Fixed a rare issue: The trip planner within the Navigation app is offline
+  even though the network status indicates it is connected.
 - Fixed an occasional issue: The charge session summary indicates 0 kWh added
   after a charge session.
 - Fixed an occasional issue: A partial keyboard is shown for a phone address or
