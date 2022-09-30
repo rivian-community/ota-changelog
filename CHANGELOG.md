@@ -1,5 +1,73 @@
 # Rivian OTA Changelog
 
+## 2022.35.03 (f03aebd9)
+
+Initial public release: September 30, 2022
+
+<!-- Source:
+  [R1S](https://stories.rivian.com/r1s-software-update-2022-35-03),
+  [R1T](https://stories.rivian.com/r1t-software-update-2022-35-03) -->
+
+### Remote Cabin Preconditioning Temperature Adjustment
+
+With the Rivian mobile app 1.7, you will be able to use the mobile app to adjust
+the remote cabin preconditioning temperature. This allows you to select the
+desired cabin temperature for when you return to your vehicle.
+
+### New Rear accessory Setting
+
+When you have accessories installed on the rear tow hitch, you can now hide rear
+visual alerts and mute audio warnings while in reverse. To enable this feature,
+choose **Settings**
+<img src="./images/icons/settings.png?raw=true" alt="settings icon" height="20px" />
+from the menu on the center display, and then choose **Vehicle**. Choose
+**Driver+** and turn on **Rear accessory**.
+
+### Driver+ Settings Are Now Persistent
+
+Your Driver+ settings for Adaptive Cruise Control (ACC) / Highway Assist (HWA)
+distance, Forward Collision Warning Proximity settings, Lane Keeping Assist,
+Blind Spot Warning, Park Assist Audio Warnings, and Rear Cross-Traffic Warning
+will now persist across software updates and drive cycles.
+
+**Note**: The Driver+ settings for Rear Cross-Traffic Warning, Park Assist Audio
+Warnings will default to factory settings after this software update, and after
+that will persist for future software updates.
+
+### Additional Improvements
+
+- Improvements to Infotainment System:
+  - Overall system stability, responsiveness, performance
+  - Redesigned Drivers and Keys, Driver+, and Exterior Lighting settings menus
+  - Simplified the media panel behavior and made it easier to mark your
+    favorite songs on Spotify and TuneIn
+  - Alexa can now be canceled mid-command; say "Alexa, stop" or tap the blue
+    activity bar at any time to immediately end your interaction with Alexa
+  - Improvements to various screen animations
+- Fixed rare issue where the navigation application would reset
+- Fixed very rare occurrence of infotainment screen resets
+- Improved FM Radio stability and addressed occasional issues where the radio
+  would not play or would experience intermittent drops in audio
+- Addressed occasional Alexa internet connectivity and echo cancellation issues
+- Addressed occasional issues with Wi-Fi hotspot availability
+- **R1T**: Addressed an occasional issue with the driver's side gear tunnel door
+  not opening upon first request from gear tunnel release button on the bed rail
+- Passenger-side cabin comfort settings now synchronizes to driver's settings
+  when a passenger is not present
+- Reduced fan cooling noise and duration after Direct Current Fast Charger
+  (DCFC) charge sessions in moderate ambient temperature
+- Reduced fan cooling noise when you approach the vehicle with passive entry,
+  or manually unlock with key fob, and cabin comfort starts up
+- Addressed an occasional issue where the posted speed limit on the driver's
+  display is shown in kph (kilometers per hour) instead of mph (miles per hour)
+- Park Assist warnings in Drive will now trigger earlier for obstacles in the
+  front
+- Improved Highway Assist (HWA) lane centering
+- Fixed an occasional issue where Adaptive Cruise Control (ACC) was not
+  available after a Highway Assist (HWA) disengagement
+
+
+
 ## 2022.31.5
 
 Initial public release: September 2, 2022
