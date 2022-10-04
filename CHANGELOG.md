@@ -68,7 +68,7 @@ that will persist for future software updates.
 
 
 
-## 2022.31.5
+## 2022.31.05 (00ee7394)
 
 Initial public release: September 2, 2022
 
@@ -692,6 +692,6 @@ The rear display is temporarily locked and will be available for use in a future
 update.
 
 
-## 2021.45.1
+## 2021.45.01
 
 (Shipped with earliest vehicles; Details unknown)
