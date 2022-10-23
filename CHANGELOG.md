@@ -1,5 +1,122 @@
 # Rivian OTA Changelog
 
+## 2022.39.00 (75dfefec)
+
+Initial public release: October 22, 2022
+
+<!-- Source:
+  [R1S](https://stories.rivian.com/r1s-software-update-2022-39-00),
+  [R1T](https://stories.rivian.com/r1t-software-update-2022-39-00) -->
+
+### Easier Vehicle Access
+
+The new feature, Kneel vehicle upon parking, enhances vehicle access. The
+vehicle can lower itself when you shift into Park while it is at Standard ride
+height and in All-Purpose or Conserve drive mode. The vehicle kneels regardless
+of the Auto ride height button selection. Kneeling pauses when you open a door.
+
+Choose **Settings**
+<img src="./images/icons/settings.png?raw=true" alt="settings icon" height="20px" />
+from the menu on the center display. Choose **Vehicle** and then choose
+**Access**. Turn on **Kneel vehicle upon parking**.
+
+**Note**: The vehicle returns to the previous ride height when it travels above
+5 mph (8 km/h).
+
+### Enhanced Radio User Interface
+
+Choose **Media**
+<img src="./images/icons/media.png?raw=true" alt="settings icon" height="20px" />
+from the menu on the center display to use these new features:
+
+- A control that turns the radio on or off from the FM Radio user interface.
+- The ability to snap to a station through the tuner.
+- A new icon to quickly access the keypad and search for stations.
+- A grid layout that displays radio stations for easier access.
+- The content title that displays on the audio panel for HD Radio.
+
+### Automatic Screen Brightness
+
+You can now set your screen brightness to automatically adjust to ambient
+light. Choose **Vehicle**
+<img src="./images/icons/vehicle.png?raw=true" alt="settings icon" height="20px" />
+from the menu on the center display, and then choose **Lighting and Displays**.
+In the Displays section, choose **Auto** next to the brightness slider.
+
+When **Auto** is turned on, use the brightness slider to manually adjust the
+brightness level with an offset relative to the ambient light. The brightness
+level continues to automatically adjust, with your offset, until you turn off
+**Auto**.
+
+### Improved Gear Guard User Interface and Motion Detection
+
+When you view an event in the Gear Guard app, the first video that plays is the
+one whose camera first detected motion. The app displays a vehicle image
+showing the different camera views available via thumbnails. Select a thumbnail
+and the video automatically plays in the video player. Choose **Gear Guard**
+<img src="./images/icons/guard.png?raw=true" alt="settings icon" height="20px" />
+from the menu on the center display and then choose an event to view.
+
+We've also improved the user experience as follows:
+
+- We've reduced the number of extraneous videos by up to 50% by improving the
+  accuracy of the Gear Guard video algorithms and handling of stationary
+  objects, such as poles and trees.
+- When you enter your vehicle, the Gear Guard app now appears on the center
+  display only if the alarm was triggered.
+- If the Gear Guard app detects motion and then records videos, the
+  notifications appear in the notification panel on the center display.
+- We've resolved rare cases in which the Gear Guard app didn't record videos.
+
+### New Controls for the Rivian Mobile App
+
+The Rivian mobile app version 1.8.0 or later enables new commands:
+
+- Enable or disable video recording in the Gear Guard security system.
+- Start and stop charging, as well as set a charge limit.
+
+Also, a new notification is sent to the Rivian mobile app if the vehicle isn't
+locked because a door or other closure was left open.
+
+### Additional Improvements
+
+- Improved Navigation app:
+  - Allows you to find chargers more easily; the app uses pins that dynamically
+    display more information at increasing levels of zoom.
+  - Shows the estimated range and charge status at the time of arrival.
+  - Provides a more accurate vehicle location shown at higher speeds.
+  - Includes improved navigation during loss of cellular connectivity.
+- Driver display improvements:
+  - Provide better animation of pedestrians and cyclists.
+  - Give a more accurate depiction of steering wheel rotation when the vehicle
+    is turning.
+  - Provide a new notification if speed is limited while the vehicle returns to
+    a previous ride height.
+- An improved AC charging rate at higher battery temperatures.
+- Improved defog performance clears the windshield more quickly.
+- Fixed an inaccurate cabin temperature displayed in the Rivian mobile app when
+  the vehicle is asleep.
+- Turning off rear climate also turns off airflow to the rear vents.
+- **R1S**: A chime indicates that the liftgate won't open or close because the
+  tailgate isn't closed.
+- Addressed this issue: The Drive Modes app wouldn't respond to touch when you
+  enabled the Rear accessory option and then chose Towing mode.
+- Improved robustness and notifications for leveling in the Camping app.
+- Resolved the issue of false notifications about the air compressor
+  overheating.
+- Addressed an occasional issue: Update Details did not display.
+- For your privacy, the driver monitoring camera is turned off when Highway
+  Assist isn't engaged.
+- Better Adaptive Cruise Control in-lane and Highway Assist lane centering
+  during highway driving.
+- A chime that indicates Highway Assist isn't available is now louder so it's
+  easier to hear.
+- A new chime indicates immediate cancellation of Highway Assist.
+- An increased delay before the vehicle shifts to Reverse or Neutral after
+  Highway Assist or Adaptive Cruise Control ends. This prevents unintended
+  shifts.
+
+
 ## 2022.35.03 (f03aebd9)
 
 Initial public release: September 30, 2022
