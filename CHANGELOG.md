@@ -26,7 +26,7 @@ from the menu on the center display. Choose **Vehicle** and then choose
 ### Enhanced Radio User Interface
 
 Choose **Media**
-<img src="./images/icons/media.png?raw=true" alt="settings icon" height="20px" />
+<img src="./images/icons/music.png?raw=true" alt="settings icon" height="20px" />
 from the menu on the center display to use these new features:
 
 - A control that turns the radio on or off from the FM Radio user interface.
