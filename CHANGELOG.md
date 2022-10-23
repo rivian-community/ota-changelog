@@ -2,7 +2,7 @@
 
 ## 2022.39.00 (75dfefec)
 
-Initial public release: October 22, 2022
+<!-- Initial public release: October 22, 2022 -->
 
 <!-- Source:
   [R1S](https://stories.rivian.com/r1s-software-update-2022-39-00),
