@@ -1,8 +1,8 @@
 # Rivian OTA Changelog
 
-## 2022.39.00 (75dfefec)
+## 2022.39.03 (2bf7f386)
 
-<!-- Initial public release: October 22, 2022 -->
+Initial public release: October 25, 2022
 
 <!-- Source:
   [R1S](https://stories.rivian.com/r1s-software-update-2022-39-00),
@@ -20,8 +20,12 @@ Choose **Settings**
 from the menu on the center display. Choose **Vehicle** and then choose
 **Access**. Turn on **Kneel vehicle upon parking**.
 
-**Note**: The vehicle returns to the previous ride height when it travels above
-5 mph (8 km/h).
+**Notes**:
+
+- The vehicle returns to the previous ride height when it travels above 5 mph
+  (8 km/h).
+- Some vehicles may need to be driven after the Software Update before Kneel
+  vehicle upon parking can be enabled.
 
 ### Enhanced Radio User Interface
 
@@ -74,9 +78,6 @@ The Rivian mobile app version 1.8.0 or later enables new commands:
 
 - Enable or disable video recording in the Gear Guard security system.
 - Start and stop charging, as well as set a charge limit.
-
-Also, a new notification is sent to the Rivian mobile app if the vehicle isn't
-locked because a door or other closure was left open.
 
 ### Additional Improvements
 
@@ -157,6 +158,8 @@ For a friend with a few surprises.
                      @@@@  (/@@@@@      @@@@@ @@ @@@@@*
                      @@@@  #,@@@@@       @@@@ @@ @@@@@@
                      @@@@   @@@@@@       @@@@(   @@ @#.
+                    *  *@ @  @@ #@       @@@ @@ *@@  @@@
+                  *@@@@@@@@@@@@@@*       *@@@@@@@@@@@@@*
 ```
 
 ## 2022.35.03 (f03aebd9)
