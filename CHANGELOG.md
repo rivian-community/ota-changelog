@@ -4,9 +4,9 @@
 
 Initial public release: October 25, 2022
 
-<!-- Source:
-  [R1S](https://stories.rivian.com/r1s-software-update-2022-39-00),
-  [R1T](https://stories.rivian.com/r1t-software-update-2022-39-00) -->
+Source:
+  [R1S](https://stories.rivian.com/r1s-software-update-2022-39-03),
+  [R1T](https://stories.rivian.com/r1t-software-update-2022-39-03)
 
 ### Easier Vehicle Access
 
