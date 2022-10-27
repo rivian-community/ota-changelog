@@ -116,13 +116,12 @@ The Rivian mobile app version 1.8.0 or later enables new commands:
 - An increased delay before the vehicle shifts to Reverse or Neutral after
   Highway Assist or Adaptive Cruise Control ends. This prevents unintended
   shifts.
+- On the weekend of tricks and treats,<br/>
+  When the pale moon slowly rises,<br/>
+  Look below the gear that can't be stowed,<br/>
+  For a friend with a few surprises.
 
 ```
-On the weekend of tricks and treats,
-When the pale moon slowly rises,
-Look below the gear that can't be stowed,
-For a friend with a few surprises.
-
                                  ,*,,(,,@,,
                                %&((      (@//.                      @@ @@ #
                              .,             .,                     *#@. @*(@ @
