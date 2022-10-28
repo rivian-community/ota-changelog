@@ -1,6 +1,12 @@
 # Rivian OTA Changelog
 
-## 2022.39.03 (2bf7f386)
+## 2022.39.03 (f6db01d8)
+
+Initial public release: October 28, 2022
+
+(Same release notes as 2022.39.01. See below.)
+
+## 2022.39.01 (2bf7f386)
 
 Initial public release: October 25, 2022
 
