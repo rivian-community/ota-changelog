@@ -1,10 +1,106 @@
 # Rivian OTA Changelog
 
+## 2022.43.02 (a733dedb)
+
+Initial public release: November 29, 2022
+
+Source:
+  [R1S](https://stories.rivian.com/r1s-software-update-2022-43-02),
+  [R1T](https://stories.rivian.com/r1t-software-update-2022-43-02)
+
+### Roomy Entry and Exit
+
+Roomy entry and exit allows the driver's seat and steering wheel to
+automatically adjust between a preferred driving position and a preferred entry
+or exit position, for easier access at the beginning and end of a drive. The
+setting and the preferred entry and exit positions are saved to your specific
+user profile. This feature is disabled by default.
+
+To use Roomy entry and exit, choose **Settings**
+<img src="./images/icons/settings.png?raw=true" alt="settings icon" height="20px" />
+from the menu on the center display. Choose **Vehicle**, then choose
+**Access**, and then follow the prompts on your screen.
+
+**Note**: If your seat or steering wheel is not calibrated, the Roomy Entry &
+Exit setting and automatic driving position adjustments will not be available.
+Please contact Rivian Service to get the seat or steering wheel calibrated.
+
+### Shift to Neutral Feature for Car Wash Mode
+
+When Car Wash mode is enabled and the vehicle is not in neutral, a "Shift to
+Neutral" button appears to allow for easier neutral access when moving forward
+in a drive-through car wash. Press the brake pedal to allow the shift to Neutral.
+
+_Thanks Dad for this idea and feedback_ - RJ
+
+### Additional Improvements
+
+- Kneel Vehicle feature setting is now tied to your user profile
+  
+  **Note**:  You may need to re-enable the Kneel Vehicle setting after updating
+  to 2022.43.
+- Improved passive entry and exit performance for specific types of cell phones
+  (Pixel 5, Pixel 6, Pixel 6 Pro)
+- Improved the automatic display brightness user interface to indicate the
+  difference between the original baseline and a manual adjustment made by the
+  user
+- Improved EV trip planner experience to include more charger location coverage
+  and reduce the trip planner calculation time
+- Fixed a bug where some users saw range numbers based off the wrong tire
+  configuration
+- Fixed various rare issues related to the navigation experience, that include
+  but are not limited to:
+  -  Disappearing navigation cursor
+  - Saved locations not able to be deleted
+  - Disappearing "Recenter" button
+  - App crashes
+- When Pet Comfort mode is enabled, window control is automatically disabled for
+  pet safety
+- Fixed a regression with 2022.39.1 update that resulted in auxiliary air
+  compressor failure on some vehicles
+- Fixed an occasional issue with controlling media using left steering wheel
+  buttons
+- Fixed a very rare issue that caused the infotainment system to reset when
+  playing FM radio
+- Fixed some Spotify issues:
+  - Stream moved from one source or device to the vehicle due to proximity
+    unlock
+  - Fixed an occasional issue where the incorrect media track appeared in the
+    media panel
+  - Fixed an occasional issue in which the same song name from a different album
+    or artist was highlighted as playing
+- Improved online route request behavior in poor connectivity conditions
+- Fixed an occasional issue with the TuneIn screen not loading properly
+- Fixed an occasional issues in which Alexa didn't understand some commands or
+  appeared to be offline
+- Fixed an issue in which the Gear Guard app didn't load correctly during fast
+  app switching
+- Fixed an issue in which Gear Guard didn't appear in the foreground after an
+  alarm event
+- Fixed the recent call history display, which showed an incorrect day of the
+  week
+- Fixed an issue where vehicle didn't automatically restart charging when charge
+  limit was reached then modified via Rivian mobile app version 1.8 and above
+- Introduced an improvement where a vehicle reset cannot be initiated when an
+  SOS is in progress
+- Improved the logic to reduce the occurrence of unnecessary Highway Assist
+  driver takeover requests in response to short tunnels or overpasses
+- Improved ability to engage Adaptive Cruise Control when Highway Assist is
+  unavailable
+- Decreased Adaptive Cruise Control and Highway Assist disengagements due to low
+  traction situations
+- Fixed a very rare issue with sleep that would cause the vehicle to deplete low
+  voltage
+
+
+
 ## 2022.39.03 (f6db01d8)
 
 Initial public release: October 28, 2022
 
 (Same release notes as 2022.39.01. See below.)
+
+
 
 ## 2022.39.01 (2bf7f386)
 
@@ -166,6 +262,8 @@ The Rivian mobile app version 1.8.0 or later enables new commands:
                     *  *@ @  @@ #@       @@@ @@ *@@  @@@
                   *@@@@@@@@@@@@@@*       *@@@@@@@@@@@@@*
 ```
+
+
 
 ## 2022.35.03 (f03aebd9)
 
