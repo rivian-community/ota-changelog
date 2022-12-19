@@ -1,5 +1,155 @@
 # Rivian OTA Changelog
 
+## 2022.47.00 (6ab8b27e)
+
+Initial public release: December 19, 2022
+
+Source:
+  [R1S](https://stories.rivian.com/r1s-software-update-2022-47-english),
+  [R1T](https://stories.rivian.com/r1t-software-update-2022-47-english)
+
+### New Snow Mode
+
+This new on-road only mode enhances contidence and control on roads and
+highways with snow, slush, or Ice. A relaxed response and reduced regenerative
+braking allow tor more precise control on low-grip road surtaces. Also, the
+vehicle otters improved pertormance when It slows to a stop. Go to **Drive
+Modes**
+<img src="./images/icons/drive-modes.png?raw=true" alt="drive modes icon" height="20px" />
+**› Snow**.
+
+**Note**: To go off road in snow, use the **Off-Road All-Terrain** mode
+
+### New Address Sharing From Your Smartphone to the Vehicle
+
+If you have the Rivian mobile app version 1.9 or later, you have two options:
+
+- **Share a charger address from the Rivian mobile app:** Open the Charger Map.
+  View the details for the charger you want, and then choose **Send to
+  Vehicle**.
+- **Share any address from Google Maps™ or Apple® Maps:** Search tor an address.
+  Choose **Share** for the address you want, and then choose the Rivian mobile
+  app from the list of options to share.
+
+### New Vehicle Controls Support With the Rivian Mobile App
+
+With the Rivian mobile app version 1.9 or later, you have remote cabin
+preconditioning controls so you can remotely prepare the cabin climate for
+travel in cold weather:
+
+- Heat the front and second-row seats.
+- Heat the steering wheel.
+- Turn on defrost. (This option is available after you turned on the cabin
+  climate from the Rivian mobile app.)
+
+### New Tidal Music Source
+
+TIDAL® is now available in the Media app. To use TIDAL, log into a **paid
+account** when your vehicle is in Park and has cellular or Wi-Fi® connectivity.
+
+**Note:** Music playback from a free account is currently not supported.
+
+### New Song Queues
+
+For Spotify® and TIDAL, you can add a song to a queue and view a song queue to
+find out which songs will play next.
+
+For Spotify, you can do the following to further customize your music listening
+experience:
+
+- Search or play a stand-alone song, and add it to the queue
+  <img src="./images/icons/playlist.png?raw=true" alt="queue icon" height="20px" />
+- Open an album, playlist, or audiobook, and add those tracks to the queue.
+
+### New Audiobooks in Spotify
+
+Audiobooks are now available for users with US-based Spotify Premium accounts.
+
+### Independent Volume Controls
+
+You can now set different volume levels for various audio sources, including
+voice navigation, phone calls, media, and Alexa. Choose **Volume**
+<img src="./images/icons/volume.png?raw=true" alt="drive modes icon" height="20px" />
+at the bottom right of the center display to adjust the volume of the audio
+source that is currently active. To access controls for the other audio
+sources, choose the audio source button located above the volume control.
+
+You can also use the left thumb control on the steering wheel to set the volume
+of the audio source that is currently active.
+
+### New Data and Privacy Controls
+
+The Settings app now offers a new Data and Privacy tab to provide better
+visibility and control over vehicle data that is shared and used. We've added
+options to limit sharing of precise location data to support certain features
+and services. We've also added options that allow you to enable your vehicle's
+interior camera to support safety features. To review and confirm your data
+privacy settings, go to **Settings**
+<img src="./images/icons/settings.png?raw=true" alt="drive modes icon" height="20px" />
+**› Data and Privacy**.
+
+**Note:** If you limit sharing of precise location data, Highway Assist won't be
+available.
+
+### Additional Improvements
+
+- Improved ride quality with updated suspension settings and refined the Drive
+  Modes › Ride settings as follows:
+  - Soft: Active dampening improvements to ride quality.
+  - Stiff: Improved handling capabilities.
+- Improved battery longevity, battery durability, and regenerative braking
+  performance. Also enhanced regen availability, and you can use regen for
+  longer durations.
+  
+  **Note:** Regen performance may be reduced at lower ambient temperatures.
+- When Gear Guard video is disabled, overnight range loss can be reduced by up to
+  20%.
+- The vehicle can now sleep even if a door is left open.
+- Improved responsiveness and reliability of key card taps and key fob button
+  presses when the vehicle is asleep.
+- In the Navigation app, you can now set your current location as your Home or
+  Work location.
+- Improved automatic humidity control to help keep the cabin more comfortable.
+- Fixed an issue so the vehicle now reverts to Auto for the cabin climate after
+  you choose Defrost or Defog.
+- Fixed rare occurrences when a Gear Guard animation was displayed while you
+  drove or charged the vehicle.
+- Fixed an issue that allowed you to set proximity locking to Off at Home
+  without a prompt to add a Home location.
+- Improved stability of the infotainment system by fixing rare occurrences of
+  restarts for the Phone app, FM radio, and center display.
+- Fixed a rare issue when the center and driver displays flashed white during
+  start-up.
+- Addressed a rare issue when voice navigation unmuted itself.
+- Fixed a rare issue in which Spotify didn't play your selection.
+- Addressed an occasional issue when the Roomy entry and exit feature was
+  disabled after the vehicle updated its software and then went to sleep.
+- If your windows require calibration, the center display notifies you to reset
+  the windows. Choose **Owner's Guide**
+  <img src="./images/icons/book.png?raw=true" alt="drive modes icon" height="20px" />
+  from the menu on the center display. Search for **Reset the Windows** and
+  follow the instructions.
+- Improved the SOS or emergency call feature to help prevent accidental calls
+  by increasing the duration of the cancellation period on the center display
+  from 10 to 20 seconds.
+- **R1S:** Fixed an issue when the Power liftgate operation setting didn't
+  persist during vehicle sleep and software updates.
+- **R1S:** Fixed an issue when the third-row reading lights didn't turn off or
+  dim after cabin lights were turned on from the center display.
+- Fixed a rare issue when a password was required for an open Wi-Fi network.
+- Addressed an issue that turned off Pet Comfort when you heated the steering
+  wheel.
+- Highway Assist improvement to more easily override automatic steering when
+  you want to take over.
+- Addressed a rare issue when Highway Assist disengaged during heavy traffic
+  conditions with low visibility of lane markings.
+- Improved Highway Assist availability on banked roads.
+- Fixed a rare issue when after the vehicle displayed a warning that your hands
+  were off of the wheel, it erroneously displayed a failure notification if you
+  moved the steering wheel.
+
+
+
 ## 2022.43.02 (a733dedb)
 
 Initial public release: November 29, 2022
