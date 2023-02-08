@@ -1,5 +1,104 @@
 # Rivian OTA Changelog
 
+## 2023.02.03 (05A93D2E)
+
+Initial public release: February 7, 2023
+
+Source:
+  [R1S](https://stories.rivian.com/r1s-software-update-2023-02-03),
+  [R1T](https://stories.rivian.com/r1t-software-update-2023-02-03)
+
+### Improved EPA-Estimated Range Numbers
+
+Thanks to various incremental improvements over previous software updates, this
+update includes updated EPA-estimated range. The update also increases the depth
+of discharge, which increases the usable battery energy. You will now see higher
+available miles at the top of charge.
+
+### Key Fob Software Update
+
+The new key fob firmware improves connection reliability and latency for faster
+locking and unlocking. It also improves battery life performance compared to
+very early versions of the firmware. If your key fob has an update available,
+your vehicle will notify you on the center display. You can also go to
+**Settings** › **Vehicle** › **Updates**.
+
+**Important:** When updating your key for software, we recommend that you have
+your phone set up as a key or have a spare key, such as a key card as a backup.
+
+### New Door Ajar Notification
+
+When proximity locking and unlocking is enabled, you will now be notified via
+the Rivian mobile app if the vehicle fails to lock due to a door or closure that
+is left open, and you've left the vicinity of the vehicle.
+
+### Additional Improvements
+
+- Reduced steering effort to maintain straight ahead driving on crowned roads.
+- Software containment for front trunk latch sensor issue resulting in reduced
+  sleep and increased overnight range loss.
+- Addressed certain cases where Direct Current Fast Charger (DCFC) was slowed
+  due to delayed battery cooling by up to 10 minutes.
+- Addressed a rare DC-DC converter fault that resulted in limited performance
+  and required a vehicle reset to clear.
+- Fixed an occasional issue where changes to suspension settings were
+  unavailable due to cold ambient temperatures.
+- Improved compatibility with BC Hydro and Flo charging networks.
+- Range estimation fixes
+  - Fixed a frequent issue where range estimation was incorrectly higher in Tow
+    Mode (Thanks for the video, Zack!).
+  - Fixed a rare Issue where incorrect top o charge range was seen based on
+    wheel configuration.
+- New Power Outlet Timer: In the Energy app you can now set a timer in
+  increments of 1 hour up to 8 hours, for when your power outlets will turn off.
+  Auto turn of after 24 hours is still available.
+- Gear Guard improvements
+  - Reduced the number of extraneous videos by up to 30% by improving the
+    accuracy of the Gear Guard video algorithms and handling of stationary
+    objects, such as mailbox, traffic cone, sign board, fence, and adverse
+    weather, such as rain and snow
+  - Gear Guard video recordings will include footage recorded from all cameras
+    before the triggering event was detected.
+- Remote cabin preconditioning and heated surfaces improvements
+  - New Vented Seat remote command when used with Rivian Mobile App 1.10 and
+    later.
+  - Addressed an Issue where sending cabin preconditioning and heated surfaces
+    remote commands from the mobIlE app were not successful in close proximity
+    to the vehicle.
+  - Improved consistency when sending multiple heated surface commands at the
+    same time from the mobile app.
+  - Fixed an occasional issue where the defrost command was not functional.
+- Window control improvements
+  - Individual recalibration or reset of all windows can now be done from the
+    driver side master switches. See R1 Owner Guide for recalibration or reset
+    procedure.
+  - Improved window close speed.
+  - improved window object detection and reaction.
+- Media improvements
+  - Steering wheel buttons now handle seek differently for music and podcasts.
+    - Music will move to next song
+    - Podcasts will skip 15 seconds
+  - Fixed the issue in Spotify where the artist's name was hidden on albums and
+    playlists.
+  - Fixed an intermittent issue where song progress goes to 00:00 after coming
+    back from another media source.
+  - Fixed an intermittent issue where Spotify did not load the content on
+    initial load.
+  - Fixed an intermittent issue where incorrect radio state displayed when
+    resumed to radio from a phone call.
+- Phone screen fixes
+  - Fixed an intermittent issue where an incorrect phone number displayed on the
+    flyout panel.
+  - Fixed an intermittent issue where the selected contact card didn't display
+    the correct phone number (more frequent after FaceTime calls)
+- Fixed an issue where language switching did not work after infotainment reset.
+- Addressed certain cases where Highway Assist was unavailable due to errors
+  related to Global Navigation Satellite System corrections.
+- Addressed an issue where Park Assist chimes were provided for select zones in
+  the rear, while rear accessory mode was enabled.
+
+
+
 ## 2022.47.00 (6ab8b27e)
 
 Initial public release: December 19, 2022
