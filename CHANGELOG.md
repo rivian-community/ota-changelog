@@ -1,6 +1,105 @@
 # Rivian OTA Changelog
 
-## 2023.02.03 (05A93D2E)
+## 2023.06.02
+
+Initial public release: March 2, 2023
+
+Source:
+  [R1S](https://stories.rivian.com/r1s-software-update-2023-06-02),
+  [R1T](https://stories.rivian.com/r1t-software-update-2023-06-02)
+
+### Additional Improvement
+
+Improved the reliability of the key fob software update. If the key fob update
+previously failed, you can try the update again without contacting Rivian
+Service; go to **Settings**
+<img src="./images/icons/settings.png?raw=true" alt="settings icon" height="20px" />
+› **Vehicle** › **Updates**.
+
+
+
+## 2023.06.00
+
+Initial public release: March 2, 2023
+
+Source:
+  [R1S](https://stories.rivian.com/r1s-software-update-2023-06-02),
+  [R1T](https://stories.rivian.com/r1t-software-update-2023-06-02)
+
+### New Proximity Locking and Unlocking via Key Fob
+
+Proximity locking and unlocking is now available via your key fob. To turn on
+this feature, go to  **Settings**
+<img src="./images/icons/settings.png?raw=true" alt="settings icon" height="20px" />
+› **Vehicle** › **Access**. Also, if the battery level of the key fob is low, a
+notification appears on the driver display, and you see a low battery indicator
+when you go to **Settings**
+<img src="./images/icons/settings.png?raw=true" alt="settings icon" height="20px" />
+› **Drivers and Keys**.
+
+We've also improved the proximity locking experience for both phones and key
+fobs: locking is more consistent, and we've decreased the number of unintended
+locking occurrences.
+
+### Navigation Improvements
+
+We've introduced the following new features in navigation:
+
+- Place search is now powered by Google Maps™.
+- You can now easily switch between charger status pins on the map to preview
+  information. Choose a charger. Then choose **Start** to begin a new route to
+  that charger.
+- We've enhanced detection of your vehicle's arrival at its destination. The
+  Navigation app now ends your trip when you park your vehicle near the
+  destination.
+
+### Enhanced Front Camera View
+
+We've improved the front camera view on the center display:
+
+- Increased the horizontal and vertical fields of view for the front camera to
+  provide a better perspective of the bumper relative to any obstacles.
+- Improved the image quality of the front camera and increased the number of
+  usable pixels by 50%.
+
+### Additional Improvements
+
+- Driver+ Improvements
+  - Increased the Highway Assist hands-off warning time period from 10 to 20
+    seconds for your convenience.
+  - Your vehicle now notifies you that rear Park Assist warnings aren't
+    available while the Rear accessory setting is enabled.
+  - Reduced the time window from 2 seconds to 1 second to engage Highway Assist
+    when you push the drive stalk twice. This enhances usability when you
+    initiate Adaptive Cruise Control with the first push of the drive stalk,
+    accelerate the vehicle to the desired speed, and then push the drive stalk
+    again to set the higher speed.
+- Your vehicle now retains calibration for the windows, seats, and steering
+  wheel after loss of 12 V battery power.
+- Fixed a rare issue that briefly triggered limited performance mode when you
+  started driving in cold ambient temperatures.
+- Fixed a rare issue when quickly turning defrost on or off changed the set
+  temperature to the maximum.
+- Media Improvements
+  - In Spotify®, added a progress bar for podcast episodes or audiobooks.
+  - In Spotify and TIDAL®, added a notification to confirm when a song is added
+    to a queue.
+  - Fixed an issue where the FM radio channel frequency wasn't displayed
+    properly.
+  - Choosing the logo of a media source now goes to the Home tab of that app.
+  - Fixed a rare issue when the Bluetooth® media album art wasn't displayed
+    properly if you quickly switched between media sources.
+- Bluetooth® audio is now transferred from your phone to the vehicle only when
+  you open either of the front doors.
+- Fixed a rare issue when the paired phone didn't appear in the Bluetooth panel.
+- Fixed a rare issue with loss of cellular connectivity in Canada after the
+  vehicle woke from sleeping.
+- Fixed a rare issue with Gear Guard videos not being properly saved to USB
+  external storage drives.
+
+
+
+## 2023.02.03 (05a93d2e)
 
 Initial public release: February 7, 2023
 
