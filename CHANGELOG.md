@@ -109,10 +109,10 @@ Source:
 
 ### New Snow Mode
 
-This new on-road only mode enhances contidence and control on roads and
+This new on-road only mode enhances confidence and control on roads and
 highways with snow, slush, or Ice. A relaxed response and reduced regenerative
-braking allow tor more precise control on low-grip road surtaces. Also, the
-vehicle otters improved pertormance when It slows to a stop. Go to **Drive
+braking allow tor more precise control on low-grip road surfaces. Also, the
+vehicle otters improved performance when It slows to a stop. Go to **Drive
 Modes**
 <img src="./images/icons/drive-modes.png?raw=true" alt="drive modes icon" height="20px" />
 **› Snow**.
