@@ -1,6 +1,6 @@
 # Rivian OTA Changelog
 
-## 2023.06.02
+## 2023.06.02 (3c57b0ad)
 
 Initial public release: March 2, 2023
 
@@ -18,7 +18,7 @@ Service; go to **Settings**
 
 
 
-## 2023.06.00
+## 2023.06.00 (26136665)
 
 Initial public release: March 2, 2023
 
