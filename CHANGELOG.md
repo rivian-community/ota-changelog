@@ -1,5 +1,17 @@
 # Rivian OTA Changelog
 
+## 2023.06.05 (5cd72787)
+
+Initial public release: March 13, 2023
+
+### Additional Improvement
+
+This software update is intended for vehicles built with an older version of the
+Driver+ front camera software. It addresses an occasional issue that disengaged
+Adaptive Cruise Control or Highway Assist in low light environments.
+
+
+
 ## 2023.06.02 (3c57b0ad)
 
 Initial public release: March 2, 2023
