@@ -1,5 +1,96 @@
 # Rivian OTA Changelog
 
+## 2023.10.01 (30311129)
+
+Initial public release: March 26, 2023
+
+# New TuneIn Premium Trial
+
+An exclusive TuneIn® Premium trial for 365 days is now available for Rivian
+customers. With TuneIn Premium you have access to:
+
+- Every MLB and NHL game. Live. No Blackouts.
+- Nonstop news coverage. Commercial free.
+- Fewer ads on 100,000 radio stations.
+
+**Note:** You may lose access to TuneIn Premium channels unless you activate the
+free trial or have a Premium account.
+
+# Tesla Supercharger Network Now Available in Navigation Charger Filters
+
+Your vehicle now shows select Tesla Supercharger locations with a Magic Dock in
+the Navigation app's charger filters. A Magic Dock allows you to charge your
+Rivian at select Tesla Supercharger locations. These locations also show in the
+Rivian mobile app version 1.12 or later. To charge at a Tesla Supercharger, you
+need to download the Tesla app.
+
+# Plug and Charge
+
+This release enables vehicle Plug and Charge functionality when charging on the
+Rivian Adventure Network and Waypoints Chargers, in order to provide a seamless
+experience.
+
+**Note:** This feature will be introduced on the Rivian Adventure Network and
+Waypoints Chargers on a rolling basis.
+
+# R1S: New Third Row Fan Control
+
+The second- and third-row seats now have separate climate controls for your
+convenience. For access, choose the temperature with the **Fan** icon on the
+center display. Then choose **Middle** to access the second-row climate controls
+or choose **Back** to access the third-row fan control.
+
+# Additional Improvements
+
+- Highway Assist has been improved to reduce the frequency of hands-on warnings
+  when Highway Assist is active in stop-and-go traffic scenarios. You still must
+  remain attentive and should be prepared to take control of the vehicle at any
+  time while Highway Assist is engaged. For more information, please see the
+  Owner's Guide
+- **R1S**: You can now open and close your liftgate with mobile app version 1.12
+  and later.
+- **R1T**: You can now release your tailgate with mobile app version 1.12 and
+  later.
+- Improved range loss when a phone key is near the vehicle for one periods
+  of time.
+- Improved phone key and key fob proximity unlocking consistency.
+- You can now toggle the exterior lock sound on and off. Choose **Settings**
+  <-- settings icon --> › **Vehicle** › **Access** › **Lock Sound
+  (exterior)**.
+- Added a text label to state your key fob's battery level inside of
+  **Settings** <-- settings icon --> › **Drivers and Keys**. The indicator text
+  will appear when the battery level is medium or low only.
+- Hotspot Improvements
+  - You can now choose the Hotspot button <!-- hotspot icon --> in the status
+    bar to toggle the hotspot on and off and open hotspot settings.
+  - Fixed an issue where quickly toggling the hotspot on and off indefinitely
+    disabled it until you restarted the vehicle.
+- Media Fixes and Improvements
+  - You can scroll through your Favorites with the left thumb controls on the
+    steering wheel.
+  - Fixed a rare issue where TIDAL® crashed when trying to perform a text
+    search.
+  - Fixed an occasional issue where the _Bluetooth®_ media player showed the
+    incorrect play/pause state.
+  - Fixed an occasional issue where the radio wouldn't resume playing after
+    returning to your vehicle within five minutes.
+- After you remove the charging cable, the charge port door no longer
+  automatically closes after 30 seconds. The charge port door closes
+  automatically when you drive the vehicle. You can also manually close it from
+  the center display or using the sensor on the charge port door.
+- Fixed an issue where an erroneous notification was shown when attempting to
+  use Adaptive Cruise control while stability control was disabled in vehicle
+  settings.
+- Fixed a rare issue that caused inconsistent lane centering when Highway Assist
+  was active.
+- Fixed an occasional issue where you would see an unrelated notification when
+  switching between day and night mode.
+- Fixed a very rare issue that caused an internal loss of communication when
+  turning on a vehicle, which drained the 12v batteries.
+
+
+
+
 ## 2023.06.05 (5cd72787)
 
 Initial public release: March 13, 2023
