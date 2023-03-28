@@ -24,9 +24,7 @@ Source:
 
 Improved the reliability of the key fob software update. If the key fob update
 previously failed, you can try the update again without contacting Rivian
-Service; go to **Settings**
-<img src="./images/icons/settings.png?raw=true" alt="settings icon" height="20px" />
-› **Vehicle** › **Updates**.
+Service; go to **Settings** <!-- settings icon --> › **Vehicle** › **Updates**.
 
 
 
@@ -41,13 +39,10 @@ Source:
 ### New Proximity Locking and Unlocking via Key Fob
 
 Proximity locking and unlocking is now available via your key fob. To turn on
-this feature, go to  **Settings**
-<img src="./images/icons/settings.png?raw=true" alt="settings icon" height="20px" />
-› **Vehicle** › **Access**. Also, if the battery level of the key fob is low, a
-notification appears on the driver display, and you see a low battery indicator
-when you go to **Settings**
-<img src="./images/icons/settings.png?raw=true" alt="settings icon" height="20px" />
-› **Drivers and Keys**.
+this feature, go to  **Settings** <!-- settings icon --> › **Vehicle** ›
+**Access**. Also, if the battery level of the key fob is low, a notification
+appears on the driver display, and you see a low battery indicator when you go
+to **Settings** <!-- settings icon --> › **Drivers and Keys**.
 
 We've also improved the proximity locking experience for both phones and key
 fobs: locking is more consistent, and we've decreased the number of unintended
@@ -224,9 +219,7 @@ This new on-road only mode enhances confidence and control on roads and
 highways with snow, slush, or Ice. A relaxed response and reduced regenerative
 braking allow tor more precise control on low-grip road surfaces. Also, the
 vehicle otters improved performance when It slows to a stop. Go to **Drive
-Modes**
-<img src="./images/icons/drive-modes.png?raw=true" alt="drive modes icon" height="20px" />
-**› Snow**.
+Modes** <!-- drive modes icon --> › **Snow**.
 
 **Note**: To go off road in snow, use the **Off-Road All-Terrain** mode
 
@@ -267,8 +260,7 @@ find out which songs will play next.
 For Spotify, you can do the following to further customize your music listening
 experience:
 
-- Search or play a stand-alone song, and add it to the queue
-  <img src="./images/icons/playlist.png?raw=true" alt="queue icon" height="20px" />
+- Search or play a stand-alone song, and add it to the queue <!-- queue icon -->
 - Open an album, playlist, or audiobook, and add those tracks to the queue.
 
 ### New Audiobooks in Spotify
@@ -279,10 +271,10 @@ Audiobooks are now available for users with US-based Spotify Premium accounts.
 
 You can now set different volume levels for various audio sources, including
 voice navigation, phone calls, media, and Alexa. Choose **Volume**
-<img src="./images/icons/volume.png?raw=true" alt="drive modes icon" height="20px" />
-at the bottom right of the center display to adjust the volume of the audio
-source that is currently active. To access controls for the other audio
-sources, choose the audio source button located above the volume control.
+<!-- volume icon --> at the bottom right of the center display to adjust the
+volume of the audio source that is currently active. To access controls for the
+other audio sources, choose the audio source button located above the volume
+control.
 
 You can also use the left thumb control on the steering wheel to set the volume
 of the audio source that is currently active.
@@ -294,9 +286,8 @@ visibility and control over vehicle data that is shared and used. We've added
 options to limit sharing of precise location data to support certain features
 and services. We've also added options that allow you to enable your vehicle's
 interior camera to support safety features. To review and confirm your data
-privacy settings, go to **Settings**
-<img src="./images/icons/settings.png?raw=true" alt="drive modes icon" height="20px" />
-**› Data and Privacy**.
+privacy settings, go to **Settings** <!-- settings icon --> ›
+**Data and Privacy**.
 
 **Note:** If you limit sharing of precise location data, Highway Assist won't be
 available.
@@ -312,8 +303,8 @@ available.
   longer durations.
   
   **Note:** Regen performance may be reduced at lower ambient temperatures.
-- When Gear Guard video is disabled, overnight range loss can be reduced by up to
-  20%.
+- When Gear Guard video is disabled, overnight range loss can be reduced by up
+  to 20%.
 - The vehicle can now sleep even if a door is left open.
 - Improved responsiveness and reliability of key card taps and key fob button
   presses when the vehicle is asleep.
@@ -335,10 +326,9 @@ available.
 - Addressed an occasional issue when the Roomy entry and exit feature was
   disabled after the vehicle updated its software and then went to sleep.
 - If your windows require calibration, the center display notifies you to reset
-  the windows. Choose **Owner's Guide**
-  <img src="./images/icons/book.png?raw=true" alt="drive modes icon" height="20px" />
-  from the menu on the center display. Search for **Reset the Windows** and
-  follow the instructions.
+  the windows. Choose **Owner's Guide** <!-- owner's guide icon --> from the
+  menu on the center display. Search for **Reset the Windows** and follow the
+  instructions.
 - Improved the SOS or emergency call feature to help prevent accidental calls
   by increasing the duration of the cancellation period on the center display
   from 10 to 20 seconds.
@@ -376,10 +366,9 @@ or exit position, for easier access at the beginning and end of a drive. The
 setting and the preferred entry and exit positions are saved to your specific
 user profile. This feature is disabled by default.
 
-To use Roomy entry and exit, choose **Settings**
-<img src="./images/icons/settings.png?raw=true" alt="settings icon" height="20px" />
-from the menu on the center display. Choose **Vehicle**, then choose
-**Access**, and then follow the prompts on your screen.
+To use Roomy entry and exit, choose **Settings** <!-- settings icon --> from the
+menu on the center display. Choose **Vehicle**, then choose **Access**, and then
+follow the prompts on your screen.
 
 **Note**: If your seat or steering wheel is not calibrated, the Roomy Entry &
 Exit setting and automatic driving position adjustments will not be available.
@@ -477,10 +466,9 @@ vehicle can lower itself when you shift into Park while it is at Standard ride
 height and in All-Purpose or Conserve drive mode. The vehicle kneels regardless
 of the Auto ride height button selection. Kneeling pauses when you open a door.
 
-Choose **Settings**
-<img src="./images/icons/settings.png?raw=true" alt="settings icon" height="20px" />
-from the menu on the center display. Choose **Vehicle** and then choose
-**Access**. Turn on **Kneel vehicle upon parking**.
+Choose **Settings** <!-- settings icon --> from the menu on the center display.
+Choose **Vehicle** and then choose **Access**. Turn on **Kneel vehicle upon
+parking**.
 
 **Notes**:
 
@@ -491,9 +479,8 @@ from the menu on the center display. Choose **Vehicle** and then choose
 
 ### Enhanced Radio User Interface
 
-Choose **Media**
-<img src="./images/icons/music.png?raw=true" alt="settings icon" height="20px" />
-from the menu on the center display to use these new features:
+Choose **Media** <!-- media icon --> from the menu on the center display to use
+these new features:
 
 - A control that turns the radio on or off from the FM Radio user interface.
 - The ability to snap to a station through the tuner.
@@ -504,10 +491,9 @@ from the menu on the center display to use these new features:
 ### Automatic Screen Brightness
 
 You can now set your screen brightness to automatically adjust to ambient
-light. Choose **Vehicle**
-<img src="./images/icons/vehicle.png?raw=true" alt="settings icon" height="20px" />
-from the menu on the center display, and then choose **Lighting and Displays**.
-In the Displays section, choose **Auto** next to the brightness slider.
+light. Choose **Vehicle** <!-- vehicle icon --> from the menu on the center
+display, and then choose **Lighting and Displays**. In the Displays section,
+choose **Auto** next to the brightness slider.
 
 When **Auto** is turned on, use the brightness slider to manually adjust the
 brightness level with an offset relative to the ambient light. The brightness
@@ -520,8 +506,8 @@ When you view an event in the Gear Guard app, the first video that plays is the
 one whose camera first detected motion. The app displays a vehicle image
 showing the different camera views available via thumbnails. Select a thumbnail
 and the video automatically plays in the video player. Choose **Gear Guard**
-<img src="./images/icons/guard.png?raw=true" alt="settings icon" height="20px" />
-from the menu on the center display and then choose an event to view.
+<!-- gear guard icon --> from the menu on the center display and then choose an
+event to view.
 
 We've also improved the user experience as follows:
 
@@ -643,10 +629,8 @@ desired cabin temperature for when you return to your vehicle.
 
 When you have accessories installed on the rear tow hitch, you can now hide rear
 visual alerts and mute audio warnings while in reverse. To enable this feature,
-choose **Settings**
-<img src="./images/icons/settings.png?raw=true" alt="settings icon" height="20px" />
-from the menu on the center display, and then choose **Vehicle**. Choose
-**Driver+** and turn on **Rear accessory**.
+choose **Settings** <!-- settings icon --> from the menu on the center display,
+and then choose **Vehicle**. Choose **Driver+** and turn on **Rear accessory**.
 
 ### Driver+ Settings Are Now Persistent
 
@@ -719,15 +703,13 @@ For your convenience, you can now do the following:
 - Vehicle leveling: You can level the vehicle when parked on uneven terrain.
 
 Camping controls, except for the outlets, are available only when the vehicle is
-in Park. Choose **Camping**
-<img src="./images/icons/camping.png?raw=true" alt="camping app icon" height="20px" />
-from the menu on the center display.
+in Park. Choose **Camping** <!-- camping icon --> from the menu on the center
+display.
 
 ### Range Now Viewable as Percentage of State of Charge
 
 For the range estimate on the driver display, you can set the state of charge to
-show distance, percentage, or both. Choose **Settings**
-<img src="./images/icons/settings.png?raw=true" alt="settings icon" height="20px" />
+show distance, percentage, or both. Choose **Settings** <!-- settings icon -->
 from the menu on the center display, and then choose **Vehicle**. Choose
 **Units**. Under **Range**, in Driver Display, choose the distance, **%**
 (percentage), or **Both**.
@@ -735,10 +717,8 @@ from the menu on the center display, and then choose **Vehicle**. Choose
 ### Units of Measurement Now Available in Metric
 
 You can now chose metric units of measurement for speed, distance, temperature,
-and air pressure. Choose **Settings**
-<img src="./images/icons/settings.png?raw=true" alt="settings icon" height="20px" />
-from the menu on the center display, and then choose **Vehicle**. Choose
-**Units**.
+and air pressure. Choose **Settings** <!-- settings icon --> from the menu on
+the center display, and then choose **Vehicle**. Choose **Units**.
 
 ### New Vehicle Controls on the Rivian Mobile App
 
@@ -996,10 +976,9 @@ of charge with which you may arrive at the DC fast charger.
 This new off-road drive mode maximizes vehicle performance and capability in
 soft sand. This mode uses unique traction control settings, minimal stability
 control support, and reduced regenerative braking to optimize vehicle handling.
-Navigate to **Drive Modes** button
-<img src="./images/icons/drive-modes.png?raw=true" alt="drive modes icon" height="20px" />
-on the center display, then choose the **Off-Road** button, and then choose the
-**Soft Sand** button.
+Navigate to **Drive Modes** button <!-- drive modes icon --> on the center
+display, then choose the **Off-Road** button, and then choose the **Soft Sand**
+button.
 
 ### Additional Improvements
 
@@ -1060,28 +1039,23 @@ You can now control a garage door. To add a new garage, use one of the
 following methods:
 
 1. In the vehicle center display, choose the **Garage Door** button
-   <img src="./images/icons/garage.png?raw=true" alt="garage door icon" height="24px" />
-   in the status bar at the top of the screen, then choose **Add a Garage**.
-2. Choose the **Settings** button
-   <img src="./images/icons/settings.png?raw=true" alt="settings icon" height="20px" />
-   from the menu on the center display. Choose **Connect** and then choose
-   **Garages**.
+   <!-- garage icon --> in the status bar at the top of the screen, then choose
+   **Add a Garage**.
+2. Choose the **Settings** button <!-- settings icon --> from the menu on the
+   center display. Choose **Connect** and then choose **Garages**.
 
 ### New Exterior Lights Settings
 
 You can now control certain exterior lights, including the light bars and charge
 port light when the vehicle is charging. Choose **Settings**
-<img src="./images/icons/settings.png?raw=true" alt="settings icon" height="20px" />
-from the menu on the center display. Choose **Vehicle** and then choose
-**Exterior Lights**.
+<!-- settings icon --> from the menu on the center display. Choose **Vehicle**
+and then choose **Exterior Lights**.
 
 ### New Automatic High Beams
 
-To use Automatic High Beams, choose **Settings**
-<img src="./images/icons/settings.png?raw=true" alt="settings icon" height="20px" />
-from the menu on the center display. Choose **Vehicle** and then choose
-**Driver+**. Turn on **Automatic High Beams** and then push the lights stalk
-away from you.
+To use Automatic High Beams, choose **Settings** <!-- settings icon --> from the
+menu on the center display. Choose **Vehicle** and then choose **Driver+**. Turn
+on **Automatic High Beams** and then push the lights stalk away from you.
 
 ### Additional Improvements
 
@@ -1093,7 +1067,8 @@ away from you.
 - Introduced new "Show and Tell" mode to keep exterior lights and screens ON
   while vehicle is in Park. This mode is deactivated in drive or at less than 30
   miles of range.
-- **R1T:** Added functionality to the tonneau cover button to enable manual control
+- **R1T:** Added functionality to the tonneau cover button to enable manual
+  control
   - Press and hold the tonneau cover button and then release the button to stop
 - Enrolled key band will now display in the driver keys list
 - Improved Birds eye view stitching based on suspension ride height
@@ -1104,7 +1079,8 @@ away from you.
 - Addressed inaccurate range displayed in rare cases, after DC fast charging
 - Addressed rare cases of total audio loss
 - Addressed rare cases of false alarm activations
-- Improved Lane Keeping Assist, Adaptive Cruise Control, and Highway Assist performance
+- Improved Lane Keeping Assist, Adaptive Cruise Control, and Highway Assist
+  performance
 - Enhanced stability of infotainment system
 
 ```
@@ -1142,8 +1118,7 @@ Initial public release: April 11, 2022
 
 Car Wash mode closes the windows, locks the charge port door, and pauses other
 functions while you wash your vehicle. To use Car Wash mode, choose **Vehicle**
-<img src="./images/icons/vehicle.png?raw=true" alt="vehicle icon" height="20px" />
-from the menu on the center display.
+<!-- vehicle icon --> from the menu on the center display.
 
 ### Updated TuneIn Design
 
@@ -1187,29 +1162,24 @@ Initial public release: March 5, 2022
 
 The bird's eye view is available to increase visibility around the vehicle when
 you back up the vehicle or access it from the Cameras app: choose **Cameras**
-<img src="./images/icons/video-camera.png?raw=true" alt="video camera icon" height="20px" />
-from the menu on the center display.
+<!-- cameras icon --> from the menu on the center display.
 
 ### New Trip Data
 
 You can track distance, speed, duration, efficiency, and energy for two trips.
-Choose **Vehicle**
-<img src="./images/icons/vehicle.png?raw=true" alt="vehicle icon" height="20px" />
-from the menu on the center display, and then choose **About My Rivian**.
+Choose **Vehicle** <!-- vehicle icon --> from the menu on the center display,
+and then choose **About My Rivian**.
 
 ### Enhanced Owner's Guide
 
 We've improved the usability of the Owner's Guide. Choose **More**
-<img src="./images/icons/dots.png?raw=true" alt="ellipsis icon" height="20px" />
-and then **Owner's Gulde**
-<img src="./images/icons/book.png?raw=true" alt="book icon" height="20px" />
+<!-- ellipsis icon --> and then **Owner's Guide** <!-- owner's guide icon -->
 from the menu on the center display.
 
 ### Rear Display Now Available
 
-To unlock the rear display, choose **Vehicle**
-<img src="./images/icons/vehicle.png?raw=true" alt="vehicle icon" height="20px" />
-from the menu on the center display, and then choose **Lighting and Displays**.
+To unlock the rear display, choose **Vehicle** <!-- vehicle icon --> from the
+menu on the center display, and then choose **Lighting and Displays**.
 
 ### Additional Improvements
 
@@ -1244,15 +1214,15 @@ Initial public release: February 4, 2022
 ### Tire Pressure Status Now Available on Driver Display
 
 To view the current pressure of all tires while the vehicle is traveling,
-long-press the left or right thumb control button on the left controls of the steering wheel.
+long-press the left or right thumb control button on the left controls of the
+steering wheel.
 
 ### New App Name and Icon to Access Gear Guard Video
 
 The Videos app is now named the Gear Guard app and uses a new icon. While the
 vehicle is parked, you can access Gear Guard video by choosing **Gear Guard**
-<img src="./images/icons/guard.png?raw=true" alt="guard icon" height="20px" />
-from the menu on the center display. This release also includes multiple
-improvements for the accuracy of Gear Guard motion detection.
+<!-- gear guard icon --> from the menu on the center display. This release also
+includes multiple improvements for the accuracy of Gear Guard motion detection.
 
 ### Additional Improvements
 
