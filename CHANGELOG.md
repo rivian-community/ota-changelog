@@ -55,10 +55,10 @@ or choose **Back** to access the third-row fan control.
   of time.
 - Improved phone key and key fob proximity unlocking consistency.
 - You can now toggle the exterior lock sound on and off. Choose **Settings**
-  <-- settings icon --> › **Vehicle** › **Access** › **Lock Sound
+  <!-- settings icon --> › **Vehicle** › **Access** › **Lock Sound
   (exterior)**.
 - Added a text label to state your key fob's battery level inside of
-  **Settings** <-- settings icon --> › **Drivers and Keys**. The indicator text
+  **Settings** <!-- settings icon --> › **Drivers and Keys**. The indicator text
   will appear when the battery level is medium or low only.
 - Hotspot Improvements
   - You can now choose the Hotspot button <!-- hotspot icon --> in the status
