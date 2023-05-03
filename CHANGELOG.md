@@ -1,5 +1,103 @@
 # Rivian OTA Changelog
 
+## 2023.14.00
+
+Initial public release: May 1, 2023
+
+# Name Your Vehicle!
+
+You can now customize your vehicle name in **Settings** <!-- settings icon --> ›
+**About** on the center display or in the Rivian mobile app version 1.13 or
+later.
+
+## New Gear Guard App With Drive Cam
+
+The new Gear Guard app with Drive Cam allows you to:
+- Use Motion Cam, the former Gear Guard camera function, to record motion and
+  alarm events that are saved to internal storage while you are away from your
+  vehicle.
+- Record an entire drive with the Gear Guard cameras (requires an external USB
+  storage device). You can review your entire drive recording by plugging the
+  USB device into a PC or Mac.
+- Record 2-minute Drive Clips when you choose **Save Clip** <!-- clip icon--> in
+  the center display or when you honk the horn for more than one second
+  (requires an external USB storage devIce).
+- View 2-minute recordings that are automatically saved to internal storage
+  during incidents such as hard braking or a collision. These recordings (and
+  Drive Clips as well) include an additional 15 seconds of pre-incident footage.
+- Browse Drive Clips, Incidents, and Motion Cam events in the Gear Guard app.
+
+**Notes:**
+
+- The Drive Cam feature requires an external USB storage device of at least 128
+  GB with a maximum supported capacity of 2 TB.
+- We recommend devices that are rated for USB 3.0+, are compatible with USB 2.0,
+  and support 20 MB/s (megabytes, not bits) of random write speed. Use an SSD
+  device for best performance.
+- We have observed some interoperability issues in our testing, and we are
+  working to expand the list of compatible devices.
+
+## New Charge Limit Slider
+
+You can now drag the slider on the battery image to adjust the vehicle charge
+limit in 1% increments between 50% and 100% (Custom). This is available on the
+center display and in the Rivian mobile app version 1.13 and later.
+
+## Additional Improvements
+
+- Added a new security feature that sounds an error chime it you actively try to
+  lock your vehicle with the cabin doors, front trunk, Gear Tunnel
+  (**R1T only**), or liftgate (**R1S only**) still open.
+- Moved information about your Rivian vehicle, such as the odometer and Trip A
+  and B computer, to Settings. Go to Settings © › About.
+- Added an option to extend your vehicle power outlet use from 24 hours to up to
+  3 days while the vehicle is parked.
+  **Note**: Outlets turn off automatically when the vehicle reaches a low
+  battery range of approximately 30 mi (48 km).
+- Driver+ Improvements
+  - Lowered frequency of Adaptive Cruise Control and Highway Assist
+    disengagements by reducing front camera sensitivity to certain environmental
+    and lighting conditions, such as driving toward the sun or in rain.
+  - Smoother lane centering performance on curvy roads while Highway Assist is
+    engaged
+  - Smoother Lane Keeping Assist intervention.
+- Cabin Comfort Improvements
+  - Improved cabin heating by limiting fan speed during initial warm-up phase to
+    prevent cold air from blowing on passengers.
+  - Removed fan level 0 to prevent accidental turnoff of the air conditioning
+    when reducing fan speed.
+  - Improved efficiency by turning off a seat's heating or ventilation when the
+    driver or a passenger exits the seat, and resuming heating or ventilation
+    when someone returns to the seat
+- Mobile App Integration Improvements
+  - Added a Service mode status in the mobile app 1.13 or later that appears
+    when service personnel actively work on your vehicle in the Rivian Service
+    Center.
+  - Resolved an intermittent issue that prevented turning on the seat heater from
+    the mobile app.
+- Media Improvements
+  - For your privacy, added the ability to enable or disable fine location in
+    TuneIn®, and disabled it by default.
+  - Fixed an intermittent issue where music wouldn't autoplay on Bluetooth®
+    media after certain phones were connected.
+  - Fixed an intermittent issue where Bluetooth media player cover art was still
+    visible on the center display after a phone was disconnected.
+  - Fixed an issue where the Spotify® logo would not appear after login to the
+    application.
+- When you activate Car Wash mode, the charge port door (if open) now closes.
+- Fixed a rare issue where the mobile app didn't show the correct vehicle status
+  over cellular.
+- Improved phone battery life consumption when your phone is set up as a key and
+  you are near the vehicle.
+- Fixed a rare issue where the vehicle locked from far away when your phone was
+  set up as a key.
+- Fixed a rare issue where the status bar and domain bar on the center display
+  would restart.
+- Fixed a rare issue where the driver display's warning of reduced 12 V battery
+  health wouldn't appear.
+
+
+
 ## 2023.10.02
 
 Initial public release: April 5, 2023
