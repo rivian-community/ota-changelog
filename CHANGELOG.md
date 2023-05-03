@@ -1,5 +1,21 @@
 # Rivian OTA Changelog
 
+## 2023.10.02
+
+Initial public release: April 5, 2023
+
+### Additional Improvements
+
+- Fixed an issue where, in certain conditions, the charge port door closed
+  immediately when removing the charge plug after charging was complete.
+- Fixed a rare issue that caused all status indicators on the driver display to
+  light up and limited driving performance until the vehicle went to sleep or
+  you restarted the vehicle.
+- Fixed a rare issue that made Driver+ features unavaialble after the vehicle
+  went to sleep or you restarted the vehicle.
+
+
+
 ## 2023.10.01 (30311129)
 
 Initial public release: March 26, 2023
