@@ -1,6 +1,81 @@
 # Rivian OTA Changelog
 
-## 2023.22.00
+## 2023.26.00
+
+Initial public release: July 17, 2023
+
+### Fast Access From App Launcher
+
+Enjoy a new way to access apps on the center display. The app launcher feature
+gives you faster access to five of your favorite apps and your most recent app.
+You'll see these apps shown at the bottom center of the center display.
+
+You can access or customize your apps by starting at the app tray, and then
+swiping up on the app tray handle. From the expanded app menu, press and hold an
+app, and then drag it down to one of the available slots on the app tray. For
+details, choose Owner's Guide from the menu on the center display.
+
+### Keys to Adventure
+
+The Rivian mobile app now lets you add up to four (4) phone keys to access your
+vehicle. There are two primary ways to do this:
+
+- Download the Rivian mobile app on the new phone you want to use as a key.
+  Sign into your account on the new phone, then go to the Vehicle tab and
+  select Set up phone key. Follow the on-screen instructions.
+- You can invite a new driver by going to the **Vehicle** tab › **Dashboard** ›
+  **Drivers and Keys** › **Keys**, and select **Invite a driver**.
+- **Note**: The new driver receives an email with additional instructions,
+  including how to download the app and create a Rivian account. Follow the
+  on-screen instructions.
+
+### Additional Improvements
+
+- Range loss:
+  - The vehicle now provides a more accurate estimate for range after it sleeps
+    or idles for a long time.
+  - Fixed a rare issue in which some vehicles maintained their 12 V batteries
+    too frequently, causing an increase of overnight range loss.
+  - Unless the battery is preconditioning, Climate Control now turns on when
+    the door is opened instead of when the vehicle is unlocked.
+- For AC charging, if the connector becomes too warm, the vehicle automatically
+  lowers the power to safely continue charging, and a message appears on the
+  driver and center displays.
+- Driver+:
+  - Improved lane centering robustness with better lane negotiation during
+    Highway Assist.
+  - Fixed a rare issue with the visual alerts not appearing when the vehicle
+    makes slight course corrections during Lane Keeping Assist.
+  - Addressed a rare issue in which canceling Adaptive Cruise Control at very
+    low speeds by holding up the driver stalk could shift the vehicle into
+    Reverse.
+- We've updated the sound system software to prevent an occasional issue in
+  which the audio is muffled.
+- Gear Guard security system:
+  - You can now preview your list of recorded incidents while driving. Note
+    that for safety, the feature still doesn't allow playing them while driving.
+  - Fixed a rare issue for the Gear Guard animation so that it deactivates when
+    it detects a person in the vehicle.
+- To respond to automated phone systems, the phone keypad on the center display
+  now generates telecommunication touch-tone signals.
+- Alexa:
+  - Fixed an issue in which Alexa voice control for Alexa media providers
+    didn't work after a phone call.
+  - Fixed an issue in which Alexa wouldn't activate if the driver's vehicle
+    door was open or ajar.
+- User interface:
+  - Fixed an issue in which the steering wheel and side mirror adjustment
+    panels disappeared unexpectedly.
+  - Fixed an issue that caused an old screen to flash when you navigated to a
+    new one.
+- We've made improvements to Show and Tell: the vehicle stays awake, turns off
+  the horn, turns off proximity access and SOS calls go to a test number.
+- Fixed a rare issue in which Vehicle Hold wouldn't promptly engage in Snow
+  mode.
+
+
+
+## 2023.22.00, 2023.22.01
 
 Initial public release: June 22, 2023
 
