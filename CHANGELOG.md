@@ -4,13 +4,13 @@
 
 Initial public release: May 1, 2023
 
-# Name Your Vehicle!
+### Name Your Vehicle!
 
 You can now customize your vehicle name in **Settings** <!-- settings icon --> ›
 **About** on the center display or in the Rivian mobile app version 1.13 or
 later.
 
-## New Gear Guard App With Drive Cam
+### New Gear Guard App With Drive Cam
 
 The new Gear Guard app with Drive Cam allows you to:
 - Use Motion Cam, the former Gear Guard camera function, to record motion and
@@ -37,13 +37,13 @@ The new Gear Guard app with Drive Cam allows you to:
 - We have observed some interoperability issues in our testing, and we are
   working to expand the list of compatible devices.
 
-## New Charge Limit Slider
+### New Charge Limit Slider
 
 You can now drag the slider on the battery image to adjust the vehicle charge
 limit in 1% increments between 50% and 100% (Custom). This is available on the
 center display and in the Rivian mobile app version 1.13 and later.
 
-## Additional Improvements
+### Additional Improvements
 
 - Added a new security feature that sounds an error chime it you actively try to
   lock your vehicle with the cabin doors, front trunk, Gear Tunnel
@@ -118,7 +118,7 @@ Initial public release: April 5, 2023
 
 Initial public release: March 26, 2023
 
-# New TuneIn Premium Trial
+### New TuneIn Premium Trial
 
 An exclusive TuneIn® Premium trial for 365 days is now available for Rivian
 customers. With TuneIn Premium you have access to:
@@ -130,7 +130,7 @@ customers. With TuneIn Premium you have access to:
 **Note:** You may lose access to TuneIn Premium channels unless you activate the
 free trial or have a Premium account.
 
-# Tesla Supercharger Network Now Available in Navigation Charger Filters
+### Tesla Supercharger Network Now Available in Navigation Charger Filters
 
 Your vehicle now shows select Tesla Supercharger locations with a Magic Dock in
 the Navigation app's charger filters. A Magic Dock allows you to charge your
@@ -138,7 +138,7 @@ Rivian at select Tesla Supercharger locations. These locations also show in the
 Rivian mobile app version 1.12 or later. To charge at a Tesla Supercharger, you
 need to download the Tesla app.
 
-# Plug and Charge
+### Plug and Charge
 
 This release enables vehicle Plug and Charge functionality when charging on the
 Rivian Adventure Network and Waypoints Chargers, in order to provide a seamless
@@ -147,14 +147,14 @@ experience.
 **Note:** This feature will be introduced on the Rivian Adventure Network and
 Waypoints Chargers on a rolling basis.
 
-# R1S: New Third Row Fan Control
+### R1S: New Third Row Fan Control
 
 The second- and third-row seats now have separate climate controls for your
 convenience. For access, choose the temperature with the **Fan** icon on the
 center display. Then choose **Middle** to access the second-row climate controls
 or choose **Back** to access the third-row fan control.
 
-# Additional Improvements
+### Additional Improvements
 
 - Highway Assist has been improved to reduce the frequency of hands-on warnings
   when Highway Assist is active in stop-and-go traffic scenarios. You still must
