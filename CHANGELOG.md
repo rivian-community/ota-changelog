@@ -1,5 +1,117 @@
 # Rivian OTA Changelog
 
+## 2023.30.00
+
+Initial public release: August 15, 2023
+
+Source:
+  [R1S](https://stories.rivian.com/r1s-software-update-2023-30-0),
+  [R1T](https://stories.rivian.com/r1t-software-update-2023-30-0)
+
+### One-Touch Garage Door Opener
+
+You now have a quicker and easier way to open or close a garage door. After you
+set a location for a garage, a prompt appears on the driver display when you
+approach or leave that garage. You can then press the right thumb control
+button on the right side of the steering wheel to open or close the garage
+door. If you have multiple paired garages at the same location, use the
+thumbwheel to scroll and then select the appropriate garage
+
+Before you begin, park near and in front of the garage when you set the
+location.
+
+- For an existing paired garage, the next time you open or close that garage
+  door, you will be prompted to set the location of the garage on the center
+  display <!-- garage icon -->. You can also set the location of an existing
+  garage by going to **Settings** › **Connect** › **Garages**.
+- When pairing a new garage, you will have the option to set the location at the
+  end of the pairing process.
+
+**Notes**:
+
+- The location you set for a garage is based on the GPS location.
+- When you enter a vehicle that is parked at the set location, press the brake
+  pedal to enable the steering wheel controls.
+- You can still choose the **Garages** button <!-- garage icon --> in the status
+  bar on the center display to open or close a garage door.
+
+### Navigation Enhancements
+
+We've made it more convenient to plan trips and get on the road:
+
+- Search results for places now include the drive times next to the results as
+  you type. Choose the drive time to g straight to navigation. You can still
+  choose a result on the list to view details and a preview of the route before
+  you start your trip.
+- Charging stops that are part of your trip now appear with pins that show the
+  planned charging time and charger speed - the faster the speed, the greater
+  the number of lightning bolt icons. Tap the charger pin to view details about
+  the charger's network, availability, and speed.
+- When you arrive at a charging stop that is part of your trip, you see the
+  target charge level under the arrival message. This tells you how much you re
+  supposed to charge during the stop
+
+### New Text Address Sharing from Smartphone to Vehicle Navigation
+
+- You can now share text addresses from your smartphone to your vehicle
+  navigation, including addresses in text, emails, calendars. notes. and other
+  apps.
+- On your smartphone, for any address in text that you can highlight or
+  long-press, choose Share, and then choose the Rivian mobile app to send it to
+  your vehicle navigation. The **Share** option is also supported for Apple
+  Maps, Google Maps, and Yelp.
+
+### EVgo Autocharge+ Support
+
+EVgo Autocharge+ now supports Rivian vehicles. To enroll in Autocharge+ in the
+EVgo app, go to the Vehicles tab, add your vehicle to your profile. and follow
+the on-screen instructions to verify your vehicle's VIN and complete
+enrollment. Once enrolled, you can plug in your vehicle to start a charging
+session. The EVgo network automatically detects your vehicle and associates its
+charging with your EVgo account.
+
+**Note**: If you don't see the Autocharge+ option, you can remove your vehicle
+from your profile and then add it again.
+
+### Additional Improvements
+
+- Locking and unlocking:
+  - Improved the responsiveness of proximity and active unlocking with any key,
+    when the vehicle is asleep
+  - Added independent lock and unlock options to the center display. These
+    options let you know when the vehicle is partially unlocked and provide a
+    quick way to fully lock or unlock the vehicle.
+- DC fast charging:
+  - Improved DC fast charging speeds, by up to 2.5 minutes, at high battery
+    temperatures. Thanks to Kyle, Out of Spec, for your videos!
+  - Reduced battery cooling noise during DC fast charging, at high battery
+    temperatures.
+- Driver+:
+  - Added a chime that sounds when Adaptive Cruise Control disengages.
+  - Added a message that appears on the driver display before the vehicle
+    reaches the maximum speed allowed for Highway Assist and disengages Highway
+    Assist.
+  - Fixed a rare issue in which the driver display indicated that Adaptive
+    Cruise Control was active when it actually wasn't.
+- Alexa
+  - Added commands so you can turn on or off the third-row vents on or off and
+    control their tan speed. For example, you can say. "Alexa. turn on the
+    third-row vents" or "Alexa. set the third-row fan to maximum."
+  - Fixed a rare issue in which Alexa acknowledged but didn't play a requested
+    Amazon Music Podcast.
+  - Fixed a rare issue in which Alexa didn't respond after you asked Alexa to
+    perform a car control command, when you weren't logged into Alexa and you
+    changed the units of measurement for the temperature settings.
+- Added a control to allow you to disconnect your smartphone from Bluetooth.
+- Fixed a rare issue in which Bluetooth audio or the Phone app disconnected
+  after you updated or restarted the
+- Fixed an issue in which multiple phones weren't properly displayed on the
+  Drivers and Keys screen if they were paired to the same profile
+- Fixed a rare issue in which part of the driver display remained in day mode
+  when you switched the displays from day to night mode
+
+
+
 ## 2023.26.00
 
 Initial public release: July 17, 2023
