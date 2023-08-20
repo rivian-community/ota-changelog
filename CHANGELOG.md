@@ -1,5 +1,73 @@
 # Rivian OTA Changelog
 
+## 2023.18.00
+
+Initial public release: May 30, 2023
+
+Source:
+  [R1S](https://stories.rivian.com/r1s-software-update-2023-18-0),
+  [R1T](https://stories.rivian.com/r1t-software-update-2023-18-0)
+
+### Scheduled Charging in the Rivian Mobile App
+
+Scheduled charging is now available in the Rivian mobile app version 1.13 or
+later. From your mobile app's Vehicle tab, pull up the dashboard and scroll to
+Charging. Then go to **Manage** › **Schedule**.
+
+### Additional Improvements
+
+- **R1T**: Added the ability to open the Gear Tunnel doors with the Rivian
+  mobile app version 1.14 or later. Improved the performance consistency of
+  opening the tailgate.
+- You can now share addresses from the Yelp website or app on your smartphone
+  to the vehicle using the Rivian mobile app.
+- Fixed a rare issue that caused DC charging to fail until you restarted the
+  vehicle.
+- Driver+ Improvements
+  - Improved lane centering performance for Highway Assist.
+  - Fixed a rare issue that displayed an incorrect explanation of why Highway
+    Assist wasn't available.
+- Usability Improvements for the Media App
+  - Enhanced button placement.
+  - Added a new Play icon for an artist in Spotify®
+  - Added a new Status icon to indicate if an audio track is loading.
+  - Fixed an issue so that two-line titles are properly displayed.
+  - Fixed a rare issue in which the audio panel description didn't update when
+    you removed a song from your Favorites list in Spotify.
+  - Fixed a rare issue that didn't allow the media source icon to appear in the
+    audio panel.
+- Proximity Locking and Unlocking Improvements
+  - Improved Bluetooth® Low Energy connection reliability for better proximity
+    unlocking performance of Android™ phone keys.
+  - **R1T**: Improved proximity locking when the tailgate is open.
+  - Fixed a very rare issue in which adding a new phone as a key removed a
+    previously paired phone.
+  - Fixed a rare issue in which proximity locking and unlocking status was
+    incorrect for a certain key on the center display.
+- Fixed issues within the user interface for Drive Cam to improve usability.
+  Also addressed issues so you can switch between views and select a
+  notification without having to restart the Gear Guard app.
+- Fixed an issue: Previously, if you listened to a non-Bluetooth media source,
+  started a Zoom call, and then switched to Bluetooth media or the Phone app on
+  the center display, your phone may have lost audio and the microphone for the
+  Zoom call.
+- Fixed an occasional issue: Alexa occasionally didn't play music even when
+  Alexa responded and confirmed the command to play music.
+- Improved Car Wash mode functionality: If the charge port door is open, the
+  vehicle automatically closes it when you turn on Car Wash mode.
+- For your convenience, Camp Courtesy now turns off automatically when the
+  vehicle reaches the speed of 15.5 mph (25 km/h). The vehicle lights switch to
+  Auto mode when you turn off Camp Courtesy or the vehicle reaches the speed of
+  15.5 mph (25 km/h).
+- Fixed a rare issue in which the fan turned off when you repeatedly used the
+  Reduce Fan Speed button.
+- Fixed a rare issue in which the Drive Modes app didn't respond after you
+  selected an Off-Road drive mode.
+- Addressed a regression with acceleration response that affected launch
+  performance.
+
+
+
 ## 2023.14.03
 
 Initial public release: May 19, 2023
