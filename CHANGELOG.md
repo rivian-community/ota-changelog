@@ -154,7 +154,7 @@ motion.
     appear during cruise control in Towing mode.
   - Fixed an issue that prevented a hands off warning after HWA was activated
     at low speeds.
-  - Fixed an issue that incorrectly issued a hands oft warning after Adaptive
+  - Fixed an issue that incorrectly issued a hands off warning after Adaptive
     Cruise Control engagement.
 - Improved bird's eye view image quality when the vehicle is in Kneel mode.
 - Improved vehicle Autohold on steep grades.
