@@ -7,3 +7,9 @@ available online.
 
 See [CHANGELOG.md](CHANGELOG.md) for the combined release notes.
 
+### Links
+
+Other sites tracking Rivian vehicle software releases:
+
+- [ElectraFi](https://electrafi.com/firmwareRivian)
+- [RivianTrackr](https://rivian.software)
