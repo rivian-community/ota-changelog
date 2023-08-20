@@ -1,5 +1,115 @@
 # Rivian OTA Changelog
 
+## 2023.22.00
+
+Initial public release: June 22, 2023
+
+Source:
+  [R1S](https://stories.rivian.com/r1s-software-update-2023-22-0),
+  [R1T](https://stories.rivian.com/r1t-software-update-2023-22-0)
+
+### Trip Planning
+
+We've added the following major enhancements to trip planning:
+
+- First phase of integration with A Better Routeplanner (ABRP, the leading
+  electric vehicle route planning software. More ABRP features will follow in
+  future updates.
+- Preferences that let you save preferred charging networks and arrival range at
+  a destination.
+- New Rivian Mobile App version 1.15 or later features that let you:
+  - Create trip plan previews and send them to your vehicle. Search for a
+    destination in the Explore tab, then choose Plan.
+  - Adjust departure range from the current range, so its easier to plan ahead.
+
+### Phone App
+
+We've added the following new and improved smartphone features to the phone app
+in the center display:
+
+- An easier to navigate Contacts list with A-Z tabs.
+- Access to your contact Favorites and Recents.
+- A new dial pad with pop-up suggested numbers as you type.
+- An easy-to-use Search field.
+
+### Driver's Seat and Steering Wheel Calibration
+
+If the driver's seat or steering wheel do not have full range of motion, Roomy
+entry and exit don't work, or you're unable to save seat or steering wheel
+positions to your Driver Profile, it's likely calibration is lost.
+
+In the past, you'd have to take our vehicle in for service to fix it. You now
+have the ability to do it ourself by going to
+**Settings** <!-- settings icon --> › **Vehicle** › **Service** on the center
+display, selecting **Driver Seat** or **Steering Wheel** under Driver Position
+Calibration, and following the instructions on the screen. This returns
+calibration to the original factory settings and reinstates full range of
+motion.
+
+**Notes**:
+
+- The calibration process will prompt you to vacate the drivers seat. or easier
+  access to the center display. sit in the front passenger seat before starting
+  calibration.
+- Calibration may affect existing Driver Profile seat and steering wheel
+  settings, as well as Roomy entry and exit settings. If these positions don't
+  seem correct after calibration, readjust to your preference and save the new
+  settings.
+- In some cases, if the vehicle detects lost calibration, a notification appears
+  on the driver display asking if you want to calibrate Follow the directions on
+  the display to complete the tasks.
+
+### Additional Improvements
+
+- Heating and cooling:
+  - Quickened response in hot ambient conditions and stabilized operation at
+    low-mid ambient conditions.
+  - Stabilized blower airflow when the vehicle transitions in and out of
+    varying sun and shade conditions.
+  - Optimized driver and center display overheat protection thresholds to help
+    minimize range loss when vehicles are parked in direct sunlight.
+- Driver+:
+  - Deactivated the driver monitoring camera. The deactivation of this interior
+    camera does not impact the safety or functionality or your vehicle.
+  - Improved Highway Assist (HWA) availability by no longer shutting it off
+    during travel through overhead gantry electronic toll collection stations.
+  - Fixed a rare issue that caused HWA to disengage upon engagement right after
+    a lane change.
+  - Fixed a rare issue that caused incorrect camera visibility notifications to
+    appear during cruise control in Towing mode.
+  - Fixed an issue that prevented a hands off warning after HWA was activated
+    at low speeds.
+  - Fixed an issue that incorrectly issued a hands oft warning after Adaptive
+    Cruise Control engagement.
+- Improved bird's eye view image quality when the vehicle is in Kneel mode.
+- Improved vehicle Autohold on steep grades.
+- Improved detection sensitivity for Incidents camera recording.
+- Fixed a rare issue that prevented a Drive mode transition when faults were
+  detected
+- Alexa:
+  - Added a new Alexa icon and interface that lets you see what's playing from
+    Alexa in the Media app.
+  - Increased the stability and availability of Alexa services, particularly in
+    low connectivity areas.
+  - Changed the Alexa active icon color in the top notification bar from blue
+    to grey.
+  - **Note**: Alexa no longer supports timers. alarms. and reminders.
+- Infotainment:
+  - Fixed an issue in TIDAL® to remove white corners from default album art in
+    night mode.
+  - Fixed an occasional issue in the Bluetooth® media application where the
+    flyout would show incorrect album art.
+  - Fixed a rare issue that prevented contact information from appearing on the
+    phone flyout after a contact sync update
+  - Fixed a rare issue that caused the vehicle controls in the Access and
+    Security screen to freeze and become unresponsive
+  - Fixed an Issue in the Energy app that caused the charge port door to appear
+    yellow on a blue vehicle
+  - Fixed a rare issue where the center display would turn off and then
+    automatically restart.
+
+
+
 ## 2023.18.00
 
 Initial public release: May 30, 2023
