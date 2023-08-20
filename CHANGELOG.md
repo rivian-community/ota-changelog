@@ -1,5 +1,16 @@
 # Rivian OTA Changelog
 
+## 2023.14.03
+
+Initial public release: May 19, 2023
+
+### Additional Improvement
+
+- Addressed very rare case when the key fob being in close proximity to the
+  vehicle may allow it to be driven.
+
+
+
 ## 2023.14.00
 
 Initial public release: May 1, 2023
