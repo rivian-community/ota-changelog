@@ -109,7 +109,7 @@ Initial public release: April 5, 2023
 - Fixed a rare issue that caused all status indicators on the driver display to
   light up and limited driving performance until the vehicle went to sleep or
   you restarted the vehicle.
-- Fixed a rare issue that made Driver+ features unavaialble after the vehicle
+- Fixed a rare issue that made Driver+ features unavailable after the vehicle
   went to sleep or you restarted the vehicle.
 
 
